@@ -30,9 +30,17 @@ const nomes = new Map([
 const nomeTime = nome => nomes.get(nome) || nome || "Time a definir";
 
 function situacao(tipo = {}) {
-  if (tipo.state === "in") return tipo.description || "Ao vivo";
+  const textoOriginal = String(tipo.description || tipo.detail || "");
+  const texto = textoOriginal.toLowerCase();
+  if (tipo.state === "in") {
+    if (texto.includes("second half") || texto.includes("2nd half")) return "Segundo tempo";
+    if (texto.includes("first half") || texto.includes("1st half")) return "Primeiro tempo";
+    if (texto.includes("half")) return "Intervalo";
+    if (texto.includes("extra time")) return "Prorrogação";
+    if (texto.includes("penalt")) return "Pênaltis";
+    return "Ao vivo";
+  }
   if (tipo.completed || tipo.state === "post") return "Encerrado";
-  const texto = String(tipo.description || tipo.detail || "").toLowerCase();
   if (texto.includes("postpon")) return "Adiado";
   if (texto.includes("cancel")) return "Cancelado";
   if (texto.includes("suspend")) return "Suspenso";
@@ -58,6 +66,8 @@ function normalizar(evento, campeonato) {
     campeonato: campeonato.nome,
     mandante: nomeTime(casa.team.displayName || casa.team.name),
     visitante: nomeTime(fora.team.displayName || fora.team.name),
+    escudoMandante: casa.team.logo || casa.team.logos?.[0]?.href || null,
+    escudoVisitante: fora.team.logo || fora.team.logos?.[0]?.href || null,
     horario,
     estadio: disputa.venue?.fullName || "Estádio a definir",
     cidade,
