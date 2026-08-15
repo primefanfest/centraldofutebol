@@ -29,10 +29,14 @@ const nomes = new Map([
 ]);
 const nomeTime = nome => nomes.get(nome) || nome || "Time a definir";
 
-function situacao(tipo = {}) {
+function situacao(tipo = {}, dataPartida) {
   const textoOriginal = String(tipo.description || tipo.detail || "");
   const texto = textoOriginal.toLowerCase();
   if (tipo.state === "in") {
+    const inicioPartida = dataPartida ? new Date(dataPartida).getTime() : NaN;
+    if (Number.isFinite(inicioPartida) && Date.now() - inicioPartida > 3.5 * 60 * 60 * 1000) {
+      return "Encerrado";
+    }
     if (texto.includes("second half") || texto.includes("2nd half")) return "Segundo tempo";
     if (texto.includes("first half") || texto.includes("1st half")) return "Primeiro tempo";
     if (texto.includes("half")) return "Intervalo";
@@ -73,7 +77,7 @@ function normalizar(evento, campeonato, logoCampeonato) {
     horario,
     estadio: disputa.venue?.fullName || "Estádio a definir",
     cidade,
-    status: situacao(evento.status?.type),
+    status: situacao(evento.status?.type, data),
     gols: temPlacar && casa.score != null && fora.score != null
       ? { mandante: Number(casa.score), visitante: Number(fora.score) }
       : null,
@@ -87,7 +91,9 @@ async function consultar(campeonato) {
   url.searchParams.set("limit", "100");
   url.searchParams.set("region", "br");
   url.searchParams.set("lang", "pt");
+  url.searchParams.set("_", String(Date.now()));
   const resposta = await fetch(url, {
+    cache: "no-store",
     headers: { Accept: "application/json", "User-Agent": "PainelFutebolAbleSign/1.0" }
   });
   if (!resposta.ok) throw new Error(`${campeonato.nome}: HTTP ${resposta.status}`);
