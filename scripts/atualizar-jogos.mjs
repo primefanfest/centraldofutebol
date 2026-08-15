@@ -47,12 +47,13 @@ function situacao(tipo = {}) {
   return "Agendado";
 }
 
-function normalizar(evento, campeonato) {
+function normalizar(evento, campeonato, logoCampeonato) {
   const disputa = evento.competitions?.[0] || {};
   const participantes = disputa.competitors || [];
   const casa = participantes.find(item => item.homeAway === "home") || participantes[0] || {};
   const fora = participantes.find(item => item.homeAway === "away") || participantes[1] || {};
-  const encerrado = Boolean(evento.status?.type?.completed || evento.status?.type?.state === "post");
+  const estado = evento.status?.type?.state;
+  const temPlacar = estado === "in" || estado === "post" || evento.status?.type?.completed;
   const data = evento.date || disputa.date;
   if (!data || !casa.team || !fora.team) return null;
   const horario = new Intl.DateTimeFormat("pt-BR", {
@@ -64,6 +65,7 @@ function normalizar(evento, campeonato) {
     id: evento.id,
     data,
     campeonato: campeonato.nome,
+    logoCampeonato,
     mandante: nomeTime(casa.team.displayName || casa.team.name),
     visitante: nomeTime(fora.team.displayName || fora.team.name),
     escudoMandante: casa.team.logo || casa.team.logos?.[0]?.href || null,
@@ -72,7 +74,7 @@ function normalizar(evento, campeonato) {
     estadio: disputa.venue?.fullName || "Estádio a definir",
     cidade,
     status: situacao(evento.status?.type),
-    gols: encerrado && casa.score != null && fora.score != null
+    gols: temPlacar && casa.score != null && fora.score != null
       ? { mandante: Number(casa.score), visitante: Number(fora.score) }
       : null,
     fonte: "ESPN"
@@ -90,7 +92,8 @@ async function consultar(campeonato) {
   });
   if (!resposta.ok) throw new Error(`${campeonato.nome}: HTTP ${resposta.status}`);
   const dados = await resposta.json();
-  return (dados.events || []).map(evento => normalizar(evento, campeonato)).filter(Boolean);
+  const logoCampeonato = dados.leagues?.[0]?.logos?.[0]?.href || null;
+  return (dados.events || []).map(evento => normalizar(evento, campeonato, logoCampeonato)).filter(Boolean);
 }
 
 async function anteriores() {
