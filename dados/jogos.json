@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-15T22:53:54.540Z",
+  "atualizadoEm": "2026-08-15T23:40:49.793Z",
   "periodo": {
     "inicio": "2026-08-15",
     "fim": "2026-08-22"
@@ -93,10 +93,10 @@
       "horario": "18:30",
       "estadio": "Arena da Baixada",
       "cidade": "Curitiba",
-      "status": "Segundo tempo",
+      "status": "Encerrado",
       "gols": {
-        "mandante": 0,
-        "visitante": 0
+        "mandante": 1,
+        "visitante": 1
       },
       "fonte": "ESPN"
     },
@@ -112,7 +112,7 @@
       "horario": "18:30",
       "estadio": "Alfredo Jaconi",
       "cidade": "Caxias do Sul",
-      "status": "Segundo tempo",
+      "status": "Encerrado",
       "gols": {
         "mandante": 0,
         "visitante": 0
