@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-15T22:01:27.368Z",
+  "atualizadoEm": "2026-08-15T22:53:54.540Z",
   "periodo": {
     "inicio": "2026-08-15",
     "fim": "2026-08-22"
@@ -36,10 +36,10 @@
       "horario": "16:00",
       "estadio": "Arena Castelão",
       "cidade": "Fortaleza",
-      "status": "Segundo tempo",
+      "status": "Encerrado",
       "gols": {
         "mandante": 1,
-        "visitante": 2
+        "visitante": 3
       },
       "fonte": "ESPN"
     },
@@ -55,7 +55,7 @@
       "horario": "16:00",
       "estadio": "Heriberto Hülse",
       "cidade": "Criciúma",
-      "status": "Segundo tempo",
+      "status": "Encerrado",
       "gols": {
         "mandante": 1,
         "visitante": 0
@@ -93,8 +93,11 @@
       "horario": "18:30",
       "estadio": "Arena da Baixada",
       "cidade": "Curitiba",
-      "status": "Agendado",
-      "gols": null,
+      "status": "Segundo tempo",
+      "gols": {
+        "mandante": 0,
+        "visitante": 0
+      },
       "fonte": "ESPN"
     },
     {
@@ -109,8 +112,11 @@
       "horario": "18:30",
       "estadio": "Alfredo Jaconi",
       "cidade": "Caxias do Sul",
-      "status": "Agendado",
-      "gols": null,
+      "status": "Segundo tempo",
+      "gols": {
+        "mandante": 0,
+        "visitante": 0
+      },
       "fonte": "ESPN"
     },
     {
