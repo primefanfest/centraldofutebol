@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-15T20:59:01.700Z",
+  "atualizadoEm": "2026-08-15T21:00:16.643Z",
   "periodo": {
     "inicio": "2026-08-15",
     "fim": "2026-08-22"
@@ -14,8 +14,11 @@
       "horario": "16:00",
       "estadio": "Estádio Antônio Accioly",
       "cidade": "Goiãnia",
-      "status": "Agendado",
-      "gols": null,
+      "status": "Encerrado",
+      "gols": {
+        "mandante": 0,
+        "visitante": 2
+      },
       "fonte": "ESPN"
     },
     {
@@ -27,7 +30,7 @@
       "horario": "16:00",
       "estadio": "Arena Castelão",
       "cidade": "Fortaleza",
-      "status": "Agendado",
+      "status": "Second Half",
       "gols": null,
       "fonte": "ESPN"
     },
@@ -40,7 +43,7 @@
       "horario": "16:00",
       "estadio": "Heriberto Hülse",
       "cidade": "Criciúma",
-      "status": "Agendado",
+      "status": "Second Half",
       "gols": null,
       "fonte": "ESPN"
     },
