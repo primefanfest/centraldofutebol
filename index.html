@@ -34,11 +34,11 @@
     <header><div class="brand"><div class="brandmark">⚽</div><div><h1>Central Fan Fest</h1><p class="subtitle">Acompanhe os principais campeonatos</p></div></div><div class="header-right"><div class="rio-weather" title="Previsão atual do Rio de Janeiro"><span class="rio-icon" id="rioIcon">🌤️</span><span class="rio-temp" id="rioTemp">24°</span><span class="rio-meta"><b>Rio de Janeiro</b><br><span id="rioDesc">Atualizando clima...</span></span></div><div class="clock"><div class="time" id="clock">--:--</div><div class="date" id="date">--</div></div></div></header>
     <section class="toolbar" aria-label="Filtros"><div class="tabs"><button data-filter="hoje" class="active">Hoje</button><button data-filter="amanha">Amanhã</button><button data-filter="semana">Semana</button></div><div class="updated"><span class="dot"></span><span class="label">Atualizado </span><span id="updated">agora</span></div></section>
     <main id="content" aria-live="polite"></main>
-    <footer><span>Horários de Brasília • Fonte: OpenFootball/football.db</span><div class="pager" id="pager"></div><span id="rotationInfo">Atualização automática</span></footer>
+    <footer><span>Horários de Brasília • Fonte: API-Football</span><div class="pager" id="pager"></div><span id="rotationInfo">Atualização automática</span></footer>
   </div>
   <script>
     "use strict";
-    const CONFIG={endpoint:"https://raw.githubusercontent.com/openfootball/south-america/master/brazil/2026_br1.txt",pageInterval:12000,refreshInterval:15*60*1000,cardsDesktop:4,cardsPortrait:2};
+    const CONFIG={endpoint:"dados/jogos.json",pageInterval:12000,refreshInterval:15*60*1000,cardsDesktop:4,cardsPortrait:2};
 
     // ================================================================
     // DADOS DEMONSTRATIVOS FICTÍCIOS — substitua pelo endpoint em produção.
@@ -125,7 +125,7 @@
       }catch(e){console.warn("Previsão Open-Meteo indisponível:",e.message);futuros.forEach(j=>j.clima.descricao="Previsão indisponível")}
       lista.forEach(j=>delete j._local);return lista
     }
-    async function carregarJogos(){try{const response=await fetch(`${CONFIG.endpoint}?v=${Date.now()}`,{cache:"no-store"});if(!response.ok)throw new Error(`HTTP ${response.status}`);const texto=await response.text(),dados=lerFootballDb(texto);if(!dados.length)throw new Error("Tabela sem partidas reconhecidas");jogos=dados;jogos.forEach(j=>delete j._local);lastUpdate=new Date();render()}catch(error){jogos=[];render();$("#content").innerHTML=`<div class="empty"><div>⚠️<br><b>Não foi possível atualizar os jogos</b><br><small>Verifique a conexão da tela com o GitHub.</small></div></div>`;$("#rotationInfo").textContent="Fonte temporariamente indisponível";console.error("Falha ao consultar OpenFootball:",error.message)}}
+    async function carregarJogos(){try{const response=await fetch(`${CONFIG.endpoint}?v=${Date.now()}`,{cache:"no-store"});if(!response.ok)throw new Error(`HTTP ${response.status}`);const data=await response.json();jogos=Array.isArray(data)?data:data.jogos;if(!Array.isArray(jogos))throw new Error("Arquivo de jogos inválido");lastUpdate=data.atualizadoEm?new Date(data.atualizadoEm):new Date();render()}catch(error){jogos=[];render();$("#content").innerHTML=`<div class="empty"><div>⚠️<br><b>Agenda aguardando atualização</b><br><small>Execute a automação “Atualizar jogos” no GitHub Actions.</small></div></div>`;$("#rotationInfo").textContent="API-Football temporariamente indisponível";console.error("Falha ao carregar agenda da API-Football:",error.message)}}
     $$("button[data-filter]").forEach(b=>b.addEventListener("click",()=>{$$("button").forEach(x=>x.classList.remove("active"));b.classList.add("active");filter=b.dataset.filter;page=0;render()}));
     addEventListener("resize",()=>{page=0;render()});setInterval(tick,1000);setInterval(()=>carregarJogos(),CONFIG.refreshInterval);setInterval(carregarClimaRio,30*60*1000);tick();carregarClimaRio();carregarJogos();
   </script>
