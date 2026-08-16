@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-16T19:02:02.101Z",
+  "atualizadoEm": "2026-08-16T19:47:37.289Z",
   "periodo": {
     "inicio": "2026-08-16",
     "fim": "2026-08-23"
@@ -55,8 +55,11 @@
       "horario": "16:00",
       "estadio": "Arena MRV",
       "cidade": "Belo Horizonte",
-      "status": "Agendado",
-      "gols": null,
+      "status": "Primeiro tempo",
+      "gols": {
+        "mandante": 1,
+        "visitante": 0
+      },
       "fonte": "ESPN"
     },
     {
@@ -71,8 +74,11 @@
       "horario": "16:00",
       "estadio": "Estádio São Januário",
       "cidade": "Rio de Janeiro",
-      "status": "Agendado",
-      "gols": null,
+      "status": "Primeiro tempo",
+      "gols": {
+        "mandante": 0,
+        "visitante": 0
+      },
       "fonte": "ESPN"
     },
     {
