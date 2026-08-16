@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-16T22:53:08.206Z",
+  "atualizadoEm": "2026-08-16T23:40:22.328Z",
   "periodo": {
     "inicio": "2026-08-16",
     "fim": "2026-08-23"
@@ -93,10 +93,10 @@
       "horario": "18:30",
       "estadio": "Estadio Municipal José Maria de Campos Maia",
       "cidade": "Mirassol",
-      "status": "Ao vivo",
+      "status": "Encerrado",
       "gols": {
-        "mandante": 0,
-        "visitante": 3
+        "mandante": 1,
+        "visitante": 5
       },
       "fonte": "ESPN"
     },
@@ -112,7 +112,7 @@
       "horario": "18:30",
       "estadio": "Estadio Manoel Barradas",
       "cidade": "Salvador",
-      "status": "Segundo tempo",
+      "status": "Encerrado",
       "gols": {
         "mandante": 1,
         "visitante": 0
@@ -131,10 +131,10 @@
       "horario": "18:30",
       "estadio": "Estádio Raimundo Sampaio (Independência)",
       "cidade": "Belo Horizonte",
-      "status": "Segundo tempo",
+      "status": "Encerrado",
       "gols": {
-        "mandante": 0,
-        "visitante": 2
+        "mandante": 1,
+        "visitante": 3
       },
       "fonte": "ESPN"
     },
@@ -150,7 +150,7 @@
       "horario": "18:30",
       "estadio": "Estádio Rei Pelé",
       "cidade": "Maceio, Alagoas",
-      "status": "Segundo tempo",
+      "status": "Encerrado",
       "gols": {
         "mandante": 0,
         "visitante": 0
@@ -169,10 +169,10 @@
       "horario": "19:30",
       "estadio": "Neo Química Arena",
       "cidade": "São Paulo",
-      "status": "Primeiro tempo",
+      "status": "Segundo tempo",
       "gols": {
         "mandante": 0,
-        "visitante": 0
+        "visitante": 1
       },
       "fonte": "ESPN"
     },
