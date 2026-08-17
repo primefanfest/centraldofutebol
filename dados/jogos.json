@@ -1,181 +1,10 @@
 {
-  "atualizadoEm": "2026-08-17T00:01:14.460Z",
+  "atualizadoEm": "2026-08-17T03:29:22.053Z",
   "periodo": {
-    "inicio": "2026-08-16",
-    "fim": "2026-08-23"
+    "inicio": "2026-08-17",
+    "fim": "2026-08-24"
   },
   "jogos": [
-    {
-      "id": "401841194",
-      "data": "2026-08-16T14:00Z",
-      "campeonato": "Brasileirão — Série A",
-      "logoCampeonato": "https://a.espncdn.com/i/leaguelogos/soccer/500/85.png",
-      "mandante": "Chapecoense",
-      "visitante": "Bahia",
-      "escudoMandante": "https://a.espncdn.com/i/teamlogos/soccer/500/9318.png",
-      "escudoVisitante": "https://a.espncdn.com/i/teamlogos/soccer/500/9967.png",
-      "horario": "11:00",
-      "estadio": "Arena Condá",
-      "cidade": "Chapecó",
-      "status": "Encerrado",
-      "gols": {
-        "mandante": 3,
-        "visitante": 3
-      },
-      "fonte": "ESPN"
-    },
-    {
-      "id": "401860275",
-      "data": "2026-08-16T14:00Z",
-      "campeonato": "Brasileirão — Série B",
-      "logoCampeonato": "https://a.espncdn.com/i/leaguelogos/soccer/500/2299.png",
-      "mandante": "Operário PR",
-      "visitante": "Avaí",
-      "escudoMandante": "https://a.espncdn.com/i/teamlogos/soccer/500/18187.png",
-      "escudoVisitante": "https://a.espncdn.com/i/teamlogos/soccer/500/9966.png",
-      "horario": "11:00",
-      "estadio": "Germano Krüger",
-      "cidade": "Ponta Grossa",
-      "status": "Encerrado",
-      "gols": {
-        "mandante": 1,
-        "visitante": 2
-      },
-      "fonte": "ESPN"
-    },
-    {
-      "id": "401841195",
-      "data": "2026-08-16T19:00Z",
-      "campeonato": "Brasileirão — Série A",
-      "logoCampeonato": "https://a.espncdn.com/i/leaguelogos/soccer/500/85.png",
-      "mandante": "Atlético Mineiro",
-      "visitante": "Grêmio",
-      "escudoMandante": "https://a.espncdn.com/i/teamlogos/soccer/500/7632.png",
-      "escudoVisitante": "https://a.espncdn.com/i/teamlogos/soccer/500/6273.png",
-      "horario": "16:00",
-      "estadio": "Arena MRV",
-      "cidade": "Belo Horizonte",
-      "status": "Encerrado",
-      "gols": {
-        "mandante": 3,
-        "visitante": 0
-      },
-      "fonte": "ESPN"
-    },
-    {
-      "id": "401841188",
-      "data": "2026-08-16T19:00Z",
-      "campeonato": "Brasileirão — Série A",
-      "logoCampeonato": "https://a.espncdn.com/i/leaguelogos/soccer/500/85.png",
-      "mandante": "Vasco",
-      "visitante": "Santos",
-      "escudoMandante": "https://a.espncdn.com/i/teamlogos/soccer/500/3454.png",
-      "escudoVisitante": "https://a.espncdn.com/i/teamlogos/soccer/500/2674.png",
-      "horario": "16:00",
-      "estadio": "Estádio São Januário",
-      "cidade": "Rio de Janeiro",
-      "status": "Encerrado",
-      "gols": {
-        "mandante": 0,
-        "visitante": 3
-      },
-      "fonte": "ESPN"
-    },
-    {
-      "id": "401841190",
-      "data": "2026-08-16T21:30Z",
-      "campeonato": "Brasileirão — Série A",
-      "logoCampeonato": "https://a.espncdn.com/i/leaguelogos/soccer/500/85.png",
-      "mandante": "Mirassol",
-      "visitante": "Flamengo",
-      "escudoMandante": "https://a.espncdn.com/i/teamlogos/soccer/500/9169.png",
-      "escudoVisitante": "https://a.espncdn.com/i/teamlogos/soccer/500/819.png",
-      "horario": "18:30",
-      "estadio": "Estadio Municipal José Maria de Campos Maia",
-      "cidade": "Mirassol",
-      "status": "Encerrado",
-      "gols": {
-        "mandante": 1,
-        "visitante": 5
-      },
-      "fonte": "ESPN"
-    },
-    {
-      "id": "401841197",
-      "data": "2026-08-16T21:30Z",
-      "campeonato": "Brasileirão — Série A",
-      "logoCampeonato": "https://a.espncdn.com/i/leaguelogos/soccer/500/85.png",
-      "mandante": "Vitória",
-      "visitante": "Botafogo",
-      "escudoMandante": "https://a.espncdn.com/i/teamlogos/soccer/500/3457.png",
-      "escudoVisitante": "https://a.espncdn.com/i/teamlogos/soccer/500/6086.png",
-      "horario": "18:30",
-      "estadio": "Estadio Manoel Barradas",
-      "cidade": "Salvador",
-      "status": "Encerrado",
-      "gols": {
-        "mandante": 1,
-        "visitante": 0
-      },
-      "fonte": "ESPN"
-    },
-    {
-      "id": "401860281",
-      "data": "2026-08-16T21:30Z",
-      "campeonato": "Brasileirão — Série B",
-      "logoCampeonato": "https://a.espncdn.com/i/leaguelogos/soccer/500/2299.png",
-      "mandante": "América Mineiro",
-      "visitante": "Athletic",
-      "escudoMandante": "https://a.espncdn.com/i/teamlogos/soccer/500/6154.png",
-      "escudoVisitante": "https://a.espncdn.com/i/teamlogos/soccer/500/20851.png",
-      "horario": "18:30",
-      "estadio": "Estádio Raimundo Sampaio (Independência)",
-      "cidade": "Belo Horizonte",
-      "status": "Encerrado",
-      "gols": {
-        "mandante": 1,
-        "visitante": 3
-      },
-      "fonte": "ESPN"
-    },
-    {
-      "id": "401860279",
-      "data": "2026-08-16T21:30Z",
-      "campeonato": "Brasileirão — Série B",
-      "logoCampeonato": "https://a.espncdn.com/i/leaguelogos/soccer/500/2299.png",
-      "mandante": "CRB",
-      "visitante": "Novorizontino",
-      "escudoMandante": "https://a.espncdn.com/i/teamlogos/soccer/500/9970.png",
-      "escudoVisitante": "https://a.espncdn.com/i/teamlogos/soccer/500/18127.png",
-      "horario": "18:30",
-      "estadio": "Estádio Rei Pelé",
-      "cidade": "Maceio, Alagoas",
-      "status": "Encerrado",
-      "gols": {
-        "mandante": 0,
-        "visitante": 0
-      },
-      "fonte": "ESPN"
-    },
-    {
-      "id": "401841193",
-      "data": "2026-08-16T22:30Z",
-      "campeonato": "Brasileirão — Série A",
-      "logoCampeonato": "https://a.espncdn.com/i/leaguelogos/soccer/500/85.png",
-      "mandante": "Corinthians",
-      "visitante": "Cruzeiro",
-      "escudoMandante": "https://a.espncdn.com/i/teamlogos/soccer/500/874.png",
-      "escudoVisitante": "https://a.espncdn.com/i/teamlogos/soccer/500/2022.png",
-      "horario": "19:30",
-      "estadio": "Neo Química Arena",
-      "cidade": "São Paulo",
-      "status": "Segundo tempo",
-      "gols": {
-        "mandante": 1,
-        "visitante": 1
-      },
-      "fonte": "ESPN"
-    },
     {
       "id": "401841191",
       "data": "2026-08-17T23:00Z",
@@ -844,6 +673,54 @@
       "horario": "19:30",
       "estadio": "Couto Pereira",
       "cidade": "Curitiba",
+      "status": "Agendado",
+      "gols": null,
+      "fonte": "ESPN"
+    },
+    {
+      "id": "401860301",
+      "data": "2026-08-24T22:30Z",
+      "campeonato": "Brasileirão — Série B",
+      "logoCampeonato": "https://a.espncdn.com/i/leaguelogos/soccer/500/2299.png",
+      "mandante": "Athletic",
+      "visitante": "Novorizontino",
+      "escudoMandante": "https://a.espncdn.com/i/teamlogos/soccer/500/20851.png",
+      "escudoVisitante": "https://a.espncdn.com/i/teamlogos/soccer/500/18127.png",
+      "horario": "19:30",
+      "estadio": "Estádio Joaquim Portugal",
+      "cidade": "Sao Joao del Rei",
+      "status": "Agendado",
+      "gols": null,
+      "fonte": "ESPN"
+    },
+    {
+      "id": "401860294",
+      "data": "2026-08-24T22:30Z",
+      "campeonato": "Brasileirão — Série B",
+      "logoCampeonato": "https://a.espncdn.com/i/leaguelogos/soccer/500/2299.png",
+      "mandante": "Sport",
+      "visitante": "América Mineiro",
+      "escudoMandante": "https://a.espncdn.com/i/teamlogos/soccer/500/7635.png",
+      "escudoVisitante": "https://a.espncdn.com/i/teamlogos/soccer/500/6154.png",
+      "horario": "19:30",
+      "estadio": "Ilha do Retiro",
+      "cidade": "Recife",
+      "status": "Agendado",
+      "gols": null,
+      "fonte": "ESPN"
+    },
+    {
+      "id": "401841198",
+      "data": "2026-08-24T23:00Z",
+      "campeonato": "Brasileirão — Série A",
+      "logoCampeonato": "https://a.espncdn.com/i/leaguelogos/soccer/500/85.png",
+      "mandante": "Botafogo",
+      "visitante": "Athletico-PR",
+      "escudoMandante": "https://a.espncdn.com/i/teamlogos/soccer/500/6086.png",
+      "escudoVisitante": "https://a.espncdn.com/i/teamlogos/soccer/500/3458.png",
+      "horario": "20:00",
+      "estadio": "Joao Havelange Stadium",
+      "cidade": "Rio de Janeiro",
       "status": "Agendado",
       "gols": null,
       "fonte": "ESPN"
