@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-16T23:40:22.328Z",
+  "atualizadoEm": "2026-08-17T00:01:14.460Z",
   "periodo": {
     "inicio": "2026-08-16",
     "fim": "2026-08-23"
@@ -171,7 +171,7 @@
       "cidade": "São Paulo",
       "status": "Segundo tempo",
       "gols": {
-        "mandante": 0,
+        "mandante": 1,
         "visitante": 1
       },
       "fonte": "ESPN"
