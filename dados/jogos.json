@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-17T22:55:38.248Z",
+  "atualizadoEm": "2026-08-17T23:50:27.224Z",
   "periodo": {
     "inicio": "2026-08-17",
     "fim": "2026-08-24"
@@ -17,8 +17,11 @@
       "horario": "20:00",
       "estadio": "Estadio Beira-Rio",
       "cidade": "Porto Alegre",
-      "status": "Agendado",
-      "gols": null,
+      "status": "Primeiro tempo",
+      "gols": {
+        "mandante": 1,
+        "visitante": 0
+      },
       "fonte": "ESPN"
     },
     {
