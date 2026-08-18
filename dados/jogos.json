@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-18T22:53:28.392Z",
+  "atualizadoEm": "2026-08-18T23:49:20.301Z",
   "periodo": {
     "inicio": "2026-08-18",
     "fim": "2026-08-25"
@@ -17,10 +17,10 @@
       "horario": "19:00",
       "estadio": "Malvinas Argentinas (Mendoza)",
       "cidade": "Mendoza",
-      "status": "Ao vivo",
+      "status": "Segundo tempo",
       "gols": {
         "mandante": 0,
-        "visitante": 0
+        "visitante": 1
       },
       "fonte": "ESPN"
     },
@@ -36,10 +36,10 @@
       "horario": "19:00",
       "estadio": "Defensores del Chaco",
       "cidade": "Asunción",
-      "status": "Ao vivo",
+      "status": "Segundo tempo",
       "gols": {
         "mandante": 0,
-        "visitante": 2
+        "visitante": 4
       },
       "fonte": "ESPN"
     },
@@ -55,7 +55,7 @@
       "horario": "19:30",
       "estadio": "Estadio VGD",
       "cidade": "Londrina",
-      "status": "Primeiro tempo",
+      "status": "Ao vivo",
       "gols": {
         "mandante": 0,
         "visitante": 0
