@@ -1,207 +1,10 @@
 {
-  "atualizadoEm": "2026-08-19T23:52:32.975Z",
+  "atualizadoEm": "2026-08-20T03:13:12.007Z",
   "periodo": {
-    "inicio": "2026-08-19",
-    "fim": "2026-08-26"
+    "inicio": "2026-08-20",
+    "fim": "2026-08-27"
   },
   "jogos": [
-    {
-      "id": "401874155",
-      "data": "2026-08-19T22:00Z",
-      "campeonato": "Libertadores",
-      "logoCampeonato": "https://a.espncdn.com/i/leaguelogos/soccer/500/58.png",
-      "mandante": "Cerro Porteño",
-      "visitante": "Palmeiras",
-      "escudoMandante": "https://a.espncdn.com/i/teamlogos/soccer/500/2671.png",
-      "escudoVisitante": "https://a.espncdn.com/i/teamlogos/soccer/500/2029.png",
-      "horario": "19:00",
-      "estadio": "Estadio ueno La Nueva Olla",
-      "cidade": "Asunción",
-      "status": "Segundo tempo",
-      "gols": {
-        "mandante": 0,
-        "visitante": 1
-      },
-      "fonte": "ESPN"
-    },
-    {
-      "id": "401874143",
-      "data": "2026-08-19T22:00Z",
-      "campeonato": "Libertadores",
-      "logoCampeonato": "https://a.espncdn.com/i/leaguelogos/soccer/500/58.png",
-      "mandante": "Coquimbo Unido",
-      "visitante": "Platense",
-      "escudoMandante": "https://a.espncdn.com/i/teamlogos/soccer/500/8186.png",
-      "escudoVisitante": "https://a.espncdn.com/i/teamlogos/soccer/500/7764.png",
-      "horario": "19:00",
-      "estadio": "Estadio Francisco Sánchez Rumoroso",
-      "cidade": "Coquimbo",
-      "status": "Segundo tempo",
-      "gols": {
-        "mandante": 0,
-        "visitante": 0
-      },
-      "fonte": "ESPN"
-    },
-    {
-      "id": "401902714",
-      "data": "2026-08-19T22:00Z",
-      "campeonato": "Sul-Americana",
-      "logoCampeonato": "https://a.espncdn.com/i/leaguelogos/soccer/500/1208.png",
-      "mandante": "Atlético Mineiro",
-      "visitante": "Red Bull Bragantino",
-      "escudoMandante": "https://a.espncdn.com/i/teamlogos/soccer/500/7632.png",
-      "escudoVisitante": "https://a.espncdn.com/i/teamlogos/soccer/500/6079.png",
-      "horario": "19:00",
-      "estadio": "Arena MRV",
-      "cidade": "Belo Horizonte",
-      "status": "Segundo tempo",
-      "gols": {
-        "mandante": 1,
-        "visitante": 2
-      },
-      "fonte": "ESPN"
-    },
-    {
-      "id": "401860290",
-      "data": "2026-08-19T22:30Z",
-      "campeonato": "Brasileirão — Série B",
-      "logoCampeonato": "https://a.espncdn.com/i/leaguelogos/soccer/500/2299.png",
-      "mandante": "Avaí",
-      "visitante": "Sport",
-      "escudoMandante": "https://a.espncdn.com/i/teamlogos/soccer/500/9966.png",
-      "escudoVisitante": "https://a.espncdn.com/i/teamlogos/soccer/500/7635.png",
-      "horario": "19:30",
-      "estadio": "Estádio da Ressacada",
-      "cidade": "Florianópolis",
-      "status": "Segundo tempo",
-      "gols": {
-        "mandante": 0,
-        "visitante": 0
-      },
-      "fonte": "ESPN"
-    },
-    {
-      "id": "401860287",
-      "data": "2026-08-19T22:30Z",
-      "campeonato": "Brasileirão — Série B",
-      "logoCampeonato": "https://a.espncdn.com/i/leaguelogos/soccer/500/2299.png",
-      "mandante": "Fortaleza",
-      "visitante": "São Bernardo",
-      "escudoMandante": "https://a.espncdn.com/i/teamlogos/soccer/500/6272.png",
-      "escudoVisitante": "https://a.espncdn.com/i/teamlogos/soccer/500/11268.png",
-      "horario": "19:30",
-      "estadio": "Arena Castelão",
-      "cidade": "Fortaleza",
-      "status": "Ao vivo",
-      "gols": {
-        "mandante": 1,
-        "visitante": 1
-      },
-      "fonte": "ESPN"
-    },
-    {
-      "id": "401860288",
-      "data": "2026-08-19T23:30Z",
-      "campeonato": "Brasileirão — Série B",
-      "logoCampeonato": "https://a.espncdn.com/i/leaguelogos/soccer/500/2299.png",
-      "mandante": "Cuiabá",
-      "visitante": "Operário PR",
-      "escudoMandante": "https://a.espncdn.com/i/teamlogos/soccer/500/17313.png",
-      "escudoVisitante": "https://a.espncdn.com/i/teamlogos/soccer/500/18187.png",
-      "horario": "20:30",
-      "estadio": "Arena Pantanal",
-      "cidade": "Cuiabá",
-      "status": "Primeiro tempo",
-      "gols": {
-        "mandante": 0,
-        "visitante": 0
-      },
-      "fonte": "ESPN"
-    },
-    {
-      "id": "401860282",
-      "data": "2026-08-19T23:30Z",
-      "campeonato": "Brasileirão — Série B",
-      "logoCampeonato": "https://a.espncdn.com/i/leaguelogos/soccer/500/2299.png",
-      "mandante": "Vila Nova",
-      "visitante": "Ponte Preta",
-      "escudoMandante": "https://a.espncdn.com/i/teamlogos/soccer/500/9973.png",
-      "escudoVisitante": "https://a.espncdn.com/i/teamlogos/soccer/500/3459.png",
-      "horario": "20:30",
-      "estadio": "Estádio Onésio Brasileiro Alvarenga",
-      "cidade": "Goiãnia",
-      "status": "Primeiro tempo",
-      "gols": {
-        "mandante": 2,
-        "visitante": 0
-      },
-      "fonte": "ESPN"
-    },
-    {
-      "id": "401860289",
-      "data": "2026-08-20T00:30Z",
-      "campeonato": "Brasileirão — Série B",
-      "logoCampeonato": "https://a.espncdn.com/i/leaguelogos/soccer/500/2299.png",
-      "mandante": "Botafogo-SP",
-      "visitante": "Criciúma",
-      "escudoMandante": "https://a.espncdn.com/i/teamlogos/soccer/500/10281.png",
-      "escudoVisitante": "https://a.espncdn.com/i/teamlogos/soccer/500/9971.png",
-      "horario": "21:30",
-      "estadio": "Estádio Santa Cruz",
-      "cidade": "Ribeirão Preto",
-      "status": "Agendado",
-      "gols": null,
-      "fonte": "ESPN"
-    },
-    {
-      "id": "401874141",
-      "data": "2026-08-20T00:30Z",
-      "campeonato": "Libertadores",
-      "logoCampeonato": "https://a.espncdn.com/i/leaguelogos/soccer/500/58.png",
-      "mandante": "Flamengo",
-      "visitante": "Cruzeiro",
-      "escudoMandante": "https://a.espncdn.com/i/teamlogos/soccer/500/819.png",
-      "escudoVisitante": "https://a.espncdn.com/i/teamlogos/soccer/500/2022.png",
-      "horario": "21:30",
-      "estadio": "Estadio do Maracana",
-      "cidade": "Rio de Janeiro",
-      "status": "Agendado",
-      "gols": null,
-      "fonte": "ESPN"
-    },
-    {
-      "id": "401903232",
-      "data": "2026-08-20T00:30Z",
-      "campeonato": "Sul-Americana",
-      "logoCampeonato": "https://a.espncdn.com/i/leaguelogos/soccer/500/1208.png",
-      "mandante": "Independiente Santa Fe",
-      "visitante": "River Plate",
-      "escudoMandante": "https://a.espncdn.com/i/teamlogos/soccer/500/5488.png",
-      "escudoVisitante": "https://a.espncdn.com/i/teamlogos/soccer/500/16.png",
-      "horario": "21:30",
-      "estadio": "Estadio Nemesio Camacho El Campín",
-      "cidade": "Bogotá",
-      "status": "Agendado",
-      "gols": null,
-      "fonte": "ESPN"
-    },
-    {
-      "id": "401902571",
-      "data": "2026-08-20T00:30Z",
-      "campeonato": "Sul-Americana",
-      "logoCampeonato": "https://a.espncdn.com/i/leaguelogos/soccer/500/1208.png",
-      "mandante": "Montevideo City Torque",
-      "visitante": "Tigre",
-      "escudoMandante": "https://a.espncdn.com/i/teamlogos/soccer/500/19002.png",
-      "escudoVisitante": "https://a.espncdn.com/i/teamlogos/soccer/500/7767.png",
-      "horario": "21:30",
-      "estadio": "Estadio Centenario",
-      "cidade": "Montevideo",
-      "status": "Agendado",
-      "gols": null,
-      "fonte": "ESPN"
-    },
     {
       "id": "401874142",
       "data": "2026-08-20T22:00Z",
@@ -710,6 +513,22 @@
       "horario": "21:30",
       "estadio": "Estadio Más Monumental",
       "cidade": "Buenos Aires",
+      "status": "Agendado",
+      "gols": null,
+      "fonte": "ESPN"
+    },
+    {
+      "id": "401909064",
+      "data": "2026-08-27T23:00Z",
+      "campeonato": "Copa do Brasil",
+      "logoCampeonato": "https://a.espncdn.com/i/leaguelogos/soccer/500/528.png",
+      "mandante": "Internacional",
+      "visitante": "Grêmio",
+      "escudoMandante": "https://a.espncdn.com/i/teamlogos/soccer/500/1936.png",
+      "escudoVisitante": "https://a.espncdn.com/i/teamlogos/soccer/500/6273.png",
+      "horario": "20:00",
+      "estadio": "Estadio Beira-Rio",
+      "cidade": "Porto Alegre",
       "status": "Agendado",
       "gols": null,
       "fonte": "ESPN"
