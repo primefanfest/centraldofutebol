@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-20T23:02:11.469Z",
+  "atualizadoEm": "2026-08-20T23:57:12.909Z",
   "periodo": {
     "inicio": "2026-08-20",
     "fim": "2026-08-27"
@@ -17,7 +17,7 @@
       "horario": "19:00",
       "estadio": "Rodrigo Paz Delgado",
       "cidade": "Quito",
-      "status": "Ao vivo",
+      "status": "Segundo tempo",
       "gols": {
         "mandante": 0,
         "visitante": 0
@@ -36,10 +36,10 @@
       "horario": "19:00",
       "estadio": "Defensores del Chaco",
       "cidade": "Asunción",
-      "status": "Ao vivo",
+      "status": "Segundo tempo",
       "gols": {
         "mandante": 1,
-        "visitante": 2
+        "visitante": 3
       },
       "fonte": "ESPN"
     },
@@ -55,7 +55,7 @@
       "horario": "19:00",
       "estadio": "Estadio Bellavista",
       "cidade": "Ambato",
-      "status": "Ao vivo",
+      "status": "Segundo tempo",
       "gols": {
         "mandante": 0,
         "visitante": 0
@@ -74,10 +74,10 @@
       "horario": "19:30",
       "estadio": "Estádio Joaquim Portugal",
       "cidade": "Sao Joao del Rei",
-      "status": "Ao vivo",
+      "status": "Segundo tempo",
       "gols": {
         "mandante": 0,
-        "visitante": 0
+        "visitante": 2
       },
       "fonte": "ESPN"
     },
@@ -93,8 +93,11 @@
       "horario": "20:30",
       "estadio": "Estádio Dr. Jorge Ismael de Biasi",
       "cidade": "Novo Horizonte",
-      "status": "Agendado",
-      "gols": null,
+      "status": "Primeiro tempo",
+      "gols": {
+        "mandante": 0,
+        "visitante": 0
+      },
       "fonte": "ESPN"
     },
     {
