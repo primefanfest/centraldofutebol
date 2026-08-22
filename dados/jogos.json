@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-22T21:46:42.148Z",
+  "atualizadoEm": "2026-08-22T22:50:02.804Z",
   "periodo": {
     "inicio": "2026-08-22",
     "fim": "2026-08-29"
@@ -17,9 +17,9 @@
       "horario": "16:00",
       "estadio": "Estadio do Maracana",
       "cidade": "Rio de Janeiro",
-      "status": "Ao vivo",
+      "status": "Encerrado",
       "gols": {
-        "mandante": 0,
+        "mandante": 2,
         "visitante": 1
       },
       "fonte": "ESPN"
@@ -36,8 +36,11 @@
       "horario": "18:00",
       "estadio": "Arena Castelão",
       "cidade": "Fortaleza",
-      "status": "Agendado",
-      "gols": null,
+      "status": "Segundo tempo",
+      "gols": {
+        "mandante": 2,
+        "visitante": 1
+      },
       "fonte": "ESPN"
     },
     {
@@ -52,8 +55,11 @@
       "horario": "18:30",
       "estadio": "Estadio Beira-Rio",
       "cidade": "Porto Alegre",
-      "status": "Agendado",
-      "gols": null,
+      "status": "Segundo tempo",
+      "gols": {
+        "mandante": 0,
+        "visitante": 0
+      },
       "fonte": "ESPN"
     },
     {
@@ -68,8 +74,11 @@
       "horario": "18:30",
       "estadio": "Arena Pantanal",
       "cidade": "Cuiabá",
-      "status": "Agendado",
-      "gols": null,
+      "status": "Segundo tempo",
+      "gols": {
+        "mandante": 0,
+        "visitante": 1
+      },
       "fonte": "ESPN"
     },
     {
