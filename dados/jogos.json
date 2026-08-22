@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-22T22:50:02.804Z",
+  "atualizadoEm": "2026-08-22T23:41:36.896Z",
   "periodo": {
     "inicio": "2026-08-22",
     "fim": "2026-08-29"
@@ -36,9 +36,9 @@
       "horario": "18:00",
       "estadio": "Arena Castelão",
       "cidade": "Fortaleza",
-      "status": "Segundo tempo",
+      "status": "Primeiro tempo",
       "gols": {
-        "mandante": 2,
+        "mandante": 1,
         "visitante": 1
       },
       "fonte": "ESPN"
@@ -55,7 +55,7 @@
       "horario": "18:30",
       "estadio": "Estadio Beira-Rio",
       "cidade": "Porto Alegre",
-      "status": "Segundo tempo",
+      "status": "Primeiro tempo",
       "gols": {
         "mandante": 0,
         "visitante": 0
@@ -74,10 +74,10 @@
       "horario": "18:30",
       "estadio": "Arena Pantanal",
       "cidade": "Cuiabá",
-      "status": "Segundo tempo",
+      "status": "Primeiro tempo",
       "gols": {
         "mandante": 0,
-        "visitante": 1
+        "visitante": 0
       },
       "fonte": "ESPN"
     },
