@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-23T19:01:13.247Z",
+  "atualizadoEm": "2026-08-23T19:48:24.190Z",
   "periodo": {
     "inicio": "2026-08-23",
     "fim": "2026-08-30"
@@ -65,8 +65,11 @@
       "horario": "16:00",
       "estadio": "Moisés Lucarelli",
       "cidade": "Ponte Preta",
-      "status": "Agendado",
-      "gols": null,
+      "status": "Primeiro tempo",
+      "gols": {
+        "mandante": 0,
+        "visitante": 0
+      },
       "fonte": "ESPN"
     },
     {
