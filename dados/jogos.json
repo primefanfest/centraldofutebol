@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-23T20:50:37.682Z",
+  "atualizadoEm": "2026-08-23T21:43:03.827Z",
   "periodo": {
     "inicio": "2026-08-23",
     "fim": "2026-08-30"
@@ -17,10 +17,10 @@
       "horario": "16:00",
       "estadio": "Allianz Parque",
       "cidade": "São Paulo",
-      "status": "Segundo tempo",
+      "status": "Encerrado",
       "gols": {
-        "mandante": 3,
-        "visitante": 0
+        "mandante": 4,
+        "visitante": 1
       },
       "fonte": "ESPN"
     },
@@ -36,9 +36,9 @@
       "horario": "16:00",
       "estadio": "Estádio Municipal Cicero de Souza Marques",
       "cidade": "Bragança Paulista",
-      "status": "Segundo tempo",
+      "status": "Encerrado",
       "gols": {
-        "mandante": 0,
+        "mandante": 1,
         "visitante": 0
       },
       "fonte": "ESPN"
@@ -55,10 +55,10 @@
       "horario": "16:00",
       "estadio": "Estadio Manoel Barradas",
       "cidade": "Salvador",
-      "status": "Segundo tempo",
+      "status": "Encerrado",
       "gols": {
         "mandante": 0,
-        "visitante": 1
+        "visitante": 2
       },
       "fonte": "ESPN"
     },
@@ -74,10 +74,10 @@
       "horario": "16:00",
       "estadio": "Moisés Lucarelli",
       "cidade": "Ponte Preta",
-      "status": "Segundo tempo",
+      "status": "Encerrado",
       "gols": {
         "mandante": 0,
-        "visitante": 1
+        "visitante": 2
       },
       "fonte": "ESPN"
     },
@@ -93,10 +93,10 @@
       "horario": "16:00",
       "estadio": "Estádio Primeiro de Maio",
       "cidade": "São Bernardo do Campo ",
-      "status": "Segundo tempo",
+      "status": "Encerrado",
       "gols": {
         "mandante": 1,
-        "visitante": 0
+        "visitante": 1
       },
       "fonte": "ESPN"
     },
@@ -112,8 +112,11 @@
       "horario": "18:00",
       "estadio": "Germano Krüger",
       "cidade": "Ponta Grossa",
-      "status": "Agendado",
-      "gols": null,
+      "status": "Primeiro tempo",
+      "gols": {
+        "mandante": 0,
+        "visitante": 0
+      },
       "fonte": "ESPN"
     },
     {
@@ -128,8 +131,11 @@
       "horario": "18:30",
       "estadio": "Arena Condá",
       "cidade": "Chapecó",
-      "status": "Agendado",
-      "gols": null,
+      "status": "Primeiro tempo",
+      "gols": {
+        "mandante": 0,
+        "visitante": 0
+      },
       "fonte": "ESPN"
     },
     {
@@ -144,8 +150,11 @@
       "horario": "18:30",
       "estadio": "Estádio Vila Belmiro (Urbano Caldeira)",
       "cidade": "Santos",
-      "status": "Agendado",
-      "gols": null,
+      "status": "Ao vivo",
+      "gols": {
+        "mandante": 0,
+        "visitante": 0
+      },
       "fonte": "ESPN"
     },
     {
@@ -160,8 +169,11 @@
       "horario": "18:30",
       "estadio": "Heriberto Hülse",
       "cidade": "Criciúma",
-      "status": "Agendado",
-      "gols": null,
+      "status": "Primeiro tempo",
+      "gols": {
+        "mandante": 0,
+        "visitante": 0
+      },
       "fonte": "ESPN"
     },
     {
