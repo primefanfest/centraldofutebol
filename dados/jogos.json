@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-23T21:43:03.827Z",
+  "atualizadoEm": "2026-08-23T22:44:01.871Z",
   "periodo": {
     "inicio": "2026-08-23",
     "fim": "2026-08-30"
@@ -112,7 +112,7 @@
       "horario": "18:00",
       "estadio": "Germano Krüger",
       "cidade": "Ponta Grossa",
-      "status": "Primeiro tempo",
+      "status": "Ao vivo",
       "gols": {
         "mandante": 0,
         "visitante": 0
@@ -131,9 +131,9 @@
       "horario": "18:30",
       "estadio": "Arena Condá",
       "cidade": "Chapecó",
-      "status": "Primeiro tempo",
+      "status": "Segundo tempo",
       "gols": {
-        "mandante": 0,
+        "mandante": 1,
         "visitante": 0
       },
       "fonte": "ESPN"
@@ -150,10 +150,10 @@
       "horario": "18:30",
       "estadio": "Estádio Vila Belmiro (Urbano Caldeira)",
       "cidade": "Santos",
-      "status": "Ao vivo",
+      "status": "Segundo tempo",
       "gols": {
         "mandante": 0,
-        "visitante": 0
+        "visitante": 1
       },
       "fonte": "ESPN"
     },
@@ -169,10 +169,10 @@
       "horario": "18:30",
       "estadio": "Heriberto Hülse",
       "cidade": "Criciúma",
-      "status": "Primeiro tempo",
+      "status": "Segundo tempo",
       "gols": {
         "mandante": 0,
-        "visitante": 0
+        "visitante": 1
       },
       "fonte": "ESPN"
     },
@@ -188,8 +188,11 @@
       "horario": "19:30",
       "estadio": "Couto Pereira",
       "cidade": "Curitiba",
-      "status": "Agendado",
-      "gols": null,
+      "status": "Primeiro tempo",
+      "gols": {
+        "mandante": 0,
+        "visitante": 0
+      },
       "fonte": "ESPN"
     },
     {
