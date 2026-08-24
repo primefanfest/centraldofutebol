@@ -1,200 +1,10 @@
 {
-  "atualizadoEm": "2026-08-23T23:40:33.518Z",
+  "atualizadoEm": "2026-08-24T03:31:58.542Z",
   "periodo": {
-    "inicio": "2026-08-23",
-    "fim": "2026-08-30"
+    "inicio": "2026-08-24",
+    "fim": "2026-08-31"
   },
   "jogos": [
-    {
-      "id": "401841203",
-      "data": "2026-08-23T19:00Z",
-      "campeonato": "Brasileirão — Série A",
-      "logoCampeonato": "https://a.espncdn.com/i/leaguelogos/soccer/500/85.png",
-      "mandante": "Palmeiras",
-      "visitante": "Vasco",
-      "escudoMandante": "https://a.espncdn.com/i/teamlogos/soccer/500/2029.png",
-      "escudoVisitante": "https://a.espncdn.com/i/teamlogos/soccer/500/3454.png",
-      "horario": "16:00",
-      "estadio": "Allianz Parque",
-      "cidade": "São Paulo",
-      "status": "Encerrado",
-      "gols": {
-        "mandante": 4,
-        "visitante": 1
-      },
-      "fonte": "ESPN"
-    },
-    {
-      "id": "401841202",
-      "data": "2026-08-23T19:00Z",
-      "campeonato": "Brasileirão — Série A",
-      "logoCampeonato": "https://a.espncdn.com/i/leaguelogos/soccer/500/85.png",
-      "mandante": "Red Bull Bragantino",
-      "visitante": "Grêmio",
-      "escudoMandante": "https://a.espncdn.com/i/teamlogos/soccer/500/6079.png",
-      "escudoVisitante": "https://a.espncdn.com/i/teamlogos/soccer/500/6273.png",
-      "horario": "16:00",
-      "estadio": "Estádio Municipal Cicero de Souza Marques",
-      "cidade": "Bragança Paulista",
-      "status": "Encerrado",
-      "gols": {
-        "mandante": 1,
-        "visitante": 0
-      },
-      "fonte": "ESPN"
-    },
-    {
-      "id": "401841200",
-      "data": "2026-08-23T19:00Z",
-      "campeonato": "Brasileirão — Série A",
-      "logoCampeonato": "https://a.espncdn.com/i/leaguelogos/soccer/500/85.png",
-      "mandante": "Vitória",
-      "visitante": "Bahia",
-      "escudoMandante": "https://a.espncdn.com/i/teamlogos/soccer/500/3457.png",
-      "escudoVisitante": "https://a.espncdn.com/i/teamlogos/soccer/500/9967.png",
-      "horario": "16:00",
-      "estadio": "Estadio Manoel Barradas",
-      "cidade": "Salvador",
-      "status": "Encerrado",
-      "gols": {
-        "mandante": 0,
-        "visitante": 2
-      },
-      "fonte": "ESPN"
-    },
-    {
-      "id": "401860293",
-      "data": "2026-08-23T19:00Z",
-      "campeonato": "Brasileirão — Série B",
-      "logoCampeonato": "https://a.espncdn.com/i/leaguelogos/soccer/500/2299.png",
-      "mandante": "Ponte Preta",
-      "visitante": "Avaí",
-      "escudoMandante": "https://a.espncdn.com/i/teamlogos/soccer/500/3459.png",
-      "escudoVisitante": "https://a.espncdn.com/i/teamlogos/soccer/500/9966.png",
-      "horario": "16:00",
-      "estadio": "Moisés Lucarelli",
-      "cidade": "Ponte Preta",
-      "status": "Encerrado",
-      "gols": {
-        "mandante": 0,
-        "visitante": 2
-      },
-      "fonte": "ESPN"
-    },
-    {
-      "id": "401860292",
-      "data": "2026-08-23T19:00Z",
-      "campeonato": "Brasileirão — Série B",
-      "logoCampeonato": "https://a.espncdn.com/i/leaguelogos/soccer/500/2299.png",
-      "mandante": "São Bernardo",
-      "visitante": "Náutico",
-      "escudoMandante": "https://a.espncdn.com/i/teamlogos/soccer/500/11268.png",
-      "escudoVisitante": "https://a.espncdn.com/i/teamlogos/soccer/500/7633.png",
-      "horario": "16:00",
-      "estadio": "Estádio Primeiro de Maio",
-      "cidade": "São Bernardo do Campo ",
-      "status": "Encerrado",
-      "gols": {
-        "mandante": 1,
-        "visitante": 1
-      },
-      "fonte": "ESPN"
-    },
-    {
-      "id": "401860295",
-      "data": "2026-08-23T21:00Z",
-      "campeonato": "Brasileirão — Série B",
-      "logoCampeonato": "https://a.espncdn.com/i/leaguelogos/soccer/500/2299.png",
-      "mandante": "Operário PR",
-      "visitante": "Vila Nova",
-      "escudoMandante": "https://a.espncdn.com/i/teamlogos/soccer/500/18187.png",
-      "escudoVisitante": "https://a.espncdn.com/i/teamlogos/soccer/500/9973.png",
-      "horario": "18:00",
-      "estadio": "Germano Krüger",
-      "cidade": "Ponta Grossa",
-      "status": "Encerrado",
-      "gols": {
-        "mandante": 0,
-        "visitante": 0
-      },
-      "fonte": "ESPN"
-    },
-    {
-      "id": "401841199",
-      "data": "2026-08-23T21:30Z",
-      "campeonato": "Brasileirão — Série A",
-      "logoCampeonato": "https://a.espncdn.com/i/leaguelogos/soccer/500/85.png",
-      "mandante": "Chapecoense",
-      "visitante": "São Paulo",
-      "escudoMandante": "https://a.espncdn.com/i/teamlogos/soccer/500/9318.png",
-      "escudoVisitante": "https://a.espncdn.com/i/teamlogos/soccer/500/2026.png",
-      "horario": "18:30",
-      "estadio": "Arena Condá",
-      "cidade": "Chapecó",
-      "status": "Encerrado",
-      "gols": {
-        "mandante": 1,
-        "visitante": 0
-      },
-      "fonte": "ESPN"
-    },
-    {
-      "id": "401841201",
-      "data": "2026-08-23T21:30Z",
-      "campeonato": "Brasileirão — Série A",
-      "logoCampeonato": "https://a.espncdn.com/i/leaguelogos/soccer/500/85.png",
-      "mandante": "Santos",
-      "visitante": "Mirassol",
-      "escudoMandante": "https://a.espncdn.com/i/teamlogos/soccer/500/2674.png",
-      "escudoVisitante": "https://a.espncdn.com/i/teamlogos/soccer/500/9169.png",
-      "horario": "18:30",
-      "estadio": "Estádio Vila Belmiro (Urbano Caldeira)",
-      "cidade": "Santos",
-      "status": "Encerrado",
-      "gols": {
-        "mandante": 1,
-        "visitante": 1
-      },
-      "fonte": "ESPN"
-    },
-    {
-      "id": "401860298",
-      "data": "2026-08-23T21:30Z",
-      "campeonato": "Brasileirão — Série B",
-      "logoCampeonato": "https://a.espncdn.com/i/leaguelogos/soccer/500/2299.png",
-      "mandante": "Criciúma",
-      "visitante": "Fortaleza",
-      "escudoMandante": "https://a.espncdn.com/i/teamlogos/soccer/500/9971.png",
-      "escudoVisitante": "https://a.espncdn.com/i/teamlogos/soccer/500/6272.png",
-      "horario": "18:30",
-      "estadio": "Heriberto Hülse",
-      "cidade": "Criciúma",
-      "status": "Encerrado",
-      "gols": {
-        "mandante": 0,
-        "visitante": 2
-      },
-      "fonte": "ESPN"
-    },
-    {
-      "id": "401841207",
-      "data": "2026-08-23T22:30Z",
-      "campeonato": "Brasileirão — Série A",
-      "logoCampeonato": "https://a.espncdn.com/i/leaguelogos/soccer/500/85.png",
-      "mandante": "Coritiba",
-      "visitante": "Corinthians",
-      "escudoMandante": "https://a.espncdn.com/i/teamlogos/soccer/500/3456.png",
-      "escudoVisitante": "https://a.espncdn.com/i/teamlogos/soccer/500/874.png",
-      "horario": "19:30",
-      "estadio": "Couto Pereira",
-      "cidade": "Curitiba",
-      "status": "Ao vivo",
-      "gols": {
-        "mandante": 1,
-        "visitante": 0
-      },
-      "fonte": "ESPN"
-    },
     {
       "id": "401860301",
       "data": "2026-08-24T22:30Z",
@@ -639,6 +449,38 @@
       "horario": "19:30",
       "estadio": "Arena Fonte Nova",
       "cidade": "Salvador",
+      "status": "Agendado",
+      "gols": null,
+      "fonte": "ESPN"
+    },
+    {
+      "id": "401860311",
+      "data": "2026-08-31T22:30Z",
+      "campeonato": "Brasileirão — Série B",
+      "logoCampeonato": "https://a.espncdn.com/i/leaguelogos/soccer/500/2299.png",
+      "mandante": "Fortaleza",
+      "visitante": "Operário PR",
+      "escudoMandante": "https://a.espncdn.com/i/teamlogos/soccer/500/6272.png",
+      "escudoVisitante": "https://a.espncdn.com/i/teamlogos/soccer/500/18187.png",
+      "horario": "19:30",
+      "estadio": "Arena Castelão",
+      "cidade": "Fortaleza",
+      "status": "Agendado",
+      "gols": null,
+      "fonte": "ESPN"
+    },
+    {
+      "id": "401841210",
+      "data": "2026-08-31T23:00Z",
+      "campeonato": "Brasileirão — Série A",
+      "logoCampeonato": "https://a.espncdn.com/i/leaguelogos/soccer/500/85.png",
+      "mandante": "Remo",
+      "visitante": "Coritiba",
+      "escudoMandante": "https://a.espncdn.com/i/teamlogos/soccer/500/4936.png",
+      "escudoVisitante": "https://a.espncdn.com/i/teamlogos/soccer/500/3456.png",
+      "horario": "20:00",
+      "estadio": "Mangueirão",
+      "cidade": "Belém",
       "status": "Agendado",
       "gols": null,
       "fonte": "ESPN"
