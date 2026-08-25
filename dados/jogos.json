@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-25T23:02:25.553Z",
+  "atualizadoEm": "2026-08-25T23:57:13.871Z",
   "periodo": {
     "inicio": "2026-08-25",
     "fim": "2026-09-01"
@@ -17,7 +17,7 @@
       "horario": "19:30",
       "estadio": "Estádio Antônio Accioly",
       "cidade": "Goiãnia",
-      "status": "Primeiro tempo",
+      "status": "Segundo tempo",
       "gols": {
         "mandante": 2,
         "visitante": 0
@@ -36,10 +36,10 @@
       "horario": "19:30",
       "estadio": "Alfredo Jaconi",
       "cidade": "Caxias do Sul",
-      "status": "Primeiro tempo",
+      "status": "Segundo tempo",
       "gols": {
         "mandante": 0,
-        "visitante": 0
+        "visitante": 1
       },
       "fonte": "ESPN"
     },
