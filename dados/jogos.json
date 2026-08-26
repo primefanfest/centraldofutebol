@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-26T10:07:58.442Z",
+  "atualizadoEm": "2026-08-26T11:50:57.110Z",
   "periodo": {
     "inicio": "2026-08-26",
     "fim": "2026-09-02"
@@ -198,22 +198,6 @@
       "fonte": "ESPN"
     },
     {
-      "id": "401860303",
-      "data": "2026-08-30T14:00Z",
-      "campeonato": "Brasileirão — Série B",
-      "logoCampeonato": "https://a.espncdn.com/i/leaguelogos/soccer/500/2299.png",
-      "mandante": "Avaí",
-      "visitante": "Atlético Goianiense",
-      "escudoMandante": "https://a.espncdn.com/i/teamlogos/soccer/500/9966.png",
-      "escudoVisitante": "https://a.espncdn.com/i/teamlogos/soccer/500/10357.png",
-      "horario": "11:00",
-      "estadio": "Estádio da Ressacada",
-      "cidade": "Florianópolis",
-      "status": "Agendado",
-      "gols": null,
-      "fonte": "ESPN"
-    },
-    {
       "id": "401841214",
       "data": "2026-08-30T19:00Z",
       "campeonato": "Brasileirão — Série A",
@@ -257,6 +241,22 @@
       "horario": "16:00",
       "estadio": "Estádio Raimundo Sampaio (Independência)",
       "cidade": "Belo Horizonte",
+      "status": "Agendado",
+      "gols": null,
+      "fonte": "ESPN"
+    },
+    {
+      "id": "401860303",
+      "data": "2026-08-30T19:00Z",
+      "campeonato": "Brasileirão — Série B",
+      "logoCampeonato": "https://a.espncdn.com/i/leaguelogos/soccer/500/2299.png",
+      "mandante": "Avaí",
+      "visitante": "Atlético Goianiense",
+      "escudoMandante": "https://a.espncdn.com/i/teamlogos/soccer/500/9966.png",
+      "escudoVisitante": "https://a.espncdn.com/i/teamlogos/soccer/500/10357.png",
+      "horario": "16:00",
+      "estadio": "Estádio da Ressacada",
+      "cidade": "Florianópolis",
       "status": "Agendado",
       "gols": null,
       "fonte": "ESPN"
