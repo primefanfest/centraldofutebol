@@ -1,80 +1,10 @@
 {
-  "atualizadoEm": "2026-08-25T23:57:13.871Z",
+  "atualizadoEm": "2026-08-26T03:36:21.853Z",
   "periodo": {
-    "inicio": "2026-08-25",
-    "fim": "2026-09-01"
+    "inicio": "2026-08-26",
+    "fim": "2026-09-02"
   },
   "jogos": [
-    {
-      "id": "401860300",
-      "data": "2026-08-25T22:30Z",
-      "campeonato": "Brasileirão — Série B",
-      "logoCampeonato": "https://a.espncdn.com/i/leaguelogos/soccer/500/2299.png",
-      "mandante": "Atlético Goianiense",
-      "visitante": "Botafogo-SP",
-      "escudoMandante": "https://a.espncdn.com/i/teamlogos/soccer/500/10357.png",
-      "escudoVisitante": "https://a.espncdn.com/i/teamlogos/soccer/500/10281.png",
-      "horario": "19:30",
-      "estadio": "Estádio Antônio Accioly",
-      "cidade": "Goiãnia",
-      "status": "Segundo tempo",
-      "gols": {
-        "mandante": 2,
-        "visitante": 0
-      },
-      "fonte": "ESPN"
-    },
-    {
-      "id": "401860296",
-      "data": "2026-08-25T22:30Z",
-      "campeonato": "Brasileirão — Série B",
-      "logoCampeonato": "https://a.espncdn.com/i/leaguelogos/soccer/500/2299.png",
-      "mandante": "Juventude",
-      "visitante": "CRB",
-      "escudoMandante": "https://a.espncdn.com/i/teamlogos/soccer/500/6270.png",
-      "escudoVisitante": "https://a.espncdn.com/i/teamlogos/soccer/500/9970.png",
-      "horario": "19:30",
-      "estadio": "Alfredo Jaconi",
-      "cidade": "Caxias do Sul",
-      "status": "Segundo tempo",
-      "gols": {
-        "mandante": 0,
-        "visitante": 1
-      },
-      "fonte": "ESPN"
-    },
-    {
-      "id": "401909066",
-      "data": "2026-08-26T00:00Z",
-      "campeonato": "Copa do Brasil",
-      "logoCampeonato": "https://a.espncdn.com/i/leaguelogos/soccer/500/528.png",
-      "mandante": "Cruzeiro",
-      "visitante": "Atlético Mineiro",
-      "escudoMandante": "https://a.espncdn.com/i/teamlogos/soccer/500/2022.png",
-      "escudoVisitante": "https://a.espncdn.com/i/teamlogos/soccer/500/7632.png",
-      "horario": "21:00",
-      "estadio": "Estadio Mineirão",
-      "cidade": "Belo Horizonte",
-      "status": "Agendado",
-      "gols": null,
-      "fonte": "ESPN"
-    },
-    {
-      "id": "401874147",
-      "data": "2026-08-26T00:30Z",
-      "campeonato": "Libertadores",
-      "logoCampeonato": "https://a.espncdn.com/i/leaguelogos/soccer/500/58.png",
-      "mandante": "Independiente del Valle",
-      "visitante": "Deportes Tolima",
-      "escudoMandante": "https://a.espncdn.com/i/teamlogos/soccer/500/17086.png",
-      "escudoVisitante": "https://a.espncdn.com/i/teamlogos/soccer/500/5489.png",
-      "horario": "21:30",
-      "estadio": "Estadio Banco Guayaquil",
-      "cidade": "Quito",
-      "status": "Agendado",
-      "gols": null,
-      "fonte": "ESPN"
-    },
     {
       "id": "401909065",
       "data": "2026-08-27T00:30Z",
@@ -471,6 +401,54 @@
       "horario": "21:00",
       "estadio": "Arena MRV",
       "cidade": "Belo Horizonte",
+      "status": "Agendado",
+      "gols": null,
+      "fonte": "ESPN"
+    },
+    {
+      "id": "401913077",
+      "data": "2026-09-02T22:30Z",
+      "campeonato": "Brasileirão — Série A",
+      "logoCampeonato": "https://a.espncdn.com/i/leaguelogos/soccer/500/85.png",
+      "mandante": "Flamengo",
+      "visitante": "Mirassol",
+      "escudoMandante": "https://a.espncdn.com/i/teamlogos/soccer/500/819.png",
+      "escudoVisitante": "https://a.espncdn.com/i/teamlogos/soccer/500/9169.png",
+      "horario": "19:30",
+      "estadio": "Estadio do Maracana",
+      "cidade": "Rio de Janeiro",
+      "status": "Agendado",
+      "gols": null,
+      "fonte": "ESPN"
+    },
+    {
+      "id": "401909110",
+      "data": "2026-09-03T00:30Z",
+      "campeonato": "Copa do Brasil",
+      "logoCampeonato": "https://a.espncdn.com/i/leaguelogos/soccer/500/528.png",
+      "mandante": "Santos",
+      "visitante": "Palmeiras",
+      "escudoMandante": "https://a.espncdn.com/i/teamlogos/soccer/500/2674.png",
+      "escudoVisitante": "https://a.espncdn.com/i/teamlogos/soccer/500/2029.png",
+      "horario": "21:30",
+      "estadio": "Estádio Vila Belmiro (Urbano Caldeira)",
+      "cidade": "Santos",
+      "status": "Agendado",
+      "gols": null,
+      "fonte": "ESPN"
+    },
+    {
+      "id": "401909111",
+      "data": "2026-09-03T00:30Z",
+      "campeonato": "Copa do Brasil",
+      "logoCampeonato": "https://a.espncdn.com/i/leaguelogos/soccer/500/528.png",
+      "mandante": "Vitória",
+      "visitante": "Vasco",
+      "escudoMandante": "https://a.espncdn.com/i/teamlogos/soccer/500/3457.png",
+      "escudoVisitante": "https://a.espncdn.com/i/teamlogos/soccer/500/3454.png",
+      "horario": "21:30",
+      "estadio": "Estadio Manoel Barradas",
+      "cidade": "Salvador",
       "status": "Agendado",
       "gols": null,
       "fonte": "ESPN"
