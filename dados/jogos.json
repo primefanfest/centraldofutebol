@@ -1,29 +1,10 @@
 {
-  "atualizadoEm": "2026-08-28T00:57:49.711Z",
+  "atualizadoEm": "2026-08-28T21:53:15.998Z",
   "periodo": {
-    "inicio": "2026-08-27",
-    "fim": "2026-09-03"
+    "inicio": "2026-08-28",
+    "fim": "2026-09-04"
   },
   "jogos": [
-    {
-      "id": "401909064",
-      "data": "2026-08-27T23:00Z",
-      "campeonato": "Copa do Brasil",
-      "logoCampeonato": "https://a.espncdn.com/i/leaguelogos/soccer/500/528.png",
-      "mandante": "Internacional",
-      "visitante": "Grêmio",
-      "escudoMandante": "https://a.espncdn.com/i/teamlogos/soccer/500/1936.png",
-      "escudoVisitante": "https://a.espncdn.com/i/teamlogos/soccer/500/6273.png",
-      "horario": "20:00",
-      "estadio": "Estadio Beira-Rio",
-      "cidade": "Porto Alegre",
-      "status": "Segundo tempo",
-      "gols": {
-        "mandante": 0,
-        "visitante": 0
-      },
-      "fonte": "ESPN"
-    },
     {
       "id": "401860307",
       "data": "2026-08-28T22:30Z",
@@ -436,6 +417,54 @@
       "horario": "20:00",
       "estadio": "Arena do Grêmio",
       "cidade": "Porto Alegre",
+      "status": "Agendado",
+      "gols": null,
+      "fonte": "ESPN"
+    },
+    {
+      "id": "401860312",
+      "data": "2026-09-04T22:30Z",
+      "campeonato": "Brasileirão — Série B",
+      "logoCampeonato": "https://a.espncdn.com/i/leaguelogos/soccer/500/2299.png",
+      "mandante": "Criciúma",
+      "visitante": "Cuiabá",
+      "escudoMandante": "https://a.espncdn.com/i/teamlogos/soccer/500/9971.png",
+      "escudoVisitante": "https://a.espncdn.com/i/teamlogos/soccer/500/17313.png",
+      "horario": "19:30",
+      "estadio": "Heriberto Hülse",
+      "cidade": "Criciúma",
+      "status": "Agendado",
+      "gols": null,
+      "fonte": "ESPN"
+    },
+    {
+      "id": "401860320",
+      "data": "2026-09-04T23:30Z",
+      "campeonato": "Brasileirão — Série B",
+      "logoCampeonato": "https://a.espncdn.com/i/leaguelogos/soccer/500/2299.png",
+      "mandante": "Athletic",
+      "visitante": "Vila Nova",
+      "escudoMandante": "https://a.espncdn.com/i/teamlogos/soccer/500/20851.png",
+      "escudoVisitante": "https://a.espncdn.com/i/teamlogos/soccer/500/9973.png",
+      "horario": "20:30",
+      "estadio": "Estádio Joaquim Portugal",
+      "cidade": "Sao Joao del Rei",
+      "status": "Agendado",
+      "gols": null,
+      "fonte": "ESPN"
+    },
+    {
+      "id": "401860321",
+      "data": "2026-09-05T00:30Z",
+      "campeonato": "Brasileirão — Série B",
+      "logoCampeonato": "https://a.espncdn.com/i/leaguelogos/soccer/500/2299.png",
+      "mandante": "CRB",
+      "visitante": "América Mineiro",
+      "escudoMandante": "https://a.espncdn.com/i/teamlogos/soccer/500/9970.png",
+      "escudoVisitante": "https://a.espncdn.com/i/teamlogos/soccer/500/6154.png",
+      "horario": "21:30",
+      "estadio": "Estádio Rei Pelé",
+      "cidade": "Maceio, Alagoas",
       "status": "Agendado",
       "gols": null,
       "fonte": "ESPN"
