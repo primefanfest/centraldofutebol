@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-28T22:30:08.204Z",
+  "atualizadoEm": "2026-08-28T22:42:24.925Z",
   "periodo": {
     "inicio": "2026-08-28",
     "fim": "2026-09-04"
@@ -17,8 +17,11 @@
       "horario": "19:30",
       "estadio": "Estádio da Serrinha",
       "cidade": "Goiãnia",
-      "status": "Agendado",
-      "gols": null,
+      "status": "Primeiro tempo",
+      "gols": {
+        "mandante": 0,
+        "visitante": 0
+      },
       "fonte": "ESPN"
     },
     {
