@@ -1,58 +1,10 @@
 {
-  "atualizadoEm": "2026-08-26T14:25:56.982Z",
+  "atualizadoEm": "2026-08-28T00:57:49.711Z",
   "periodo": {
-    "inicio": "2026-08-26",
-    "fim": "2026-09-02"
+    "inicio": "2026-08-27",
+    "fim": "2026-09-03"
   },
   "jogos": [
-    {
-      "id": "401909065",
-      "data": "2026-08-27T00:30Z",
-      "campeonato": "Copa do Brasil",
-      "logoCampeonato": "https://a.espncdn.com/i/leaguelogos/soccer/500/528.png",
-      "mandante": "Palmeiras",
-      "visitante": "Santos",
-      "escudoMandante": "https://a.espncdn.com/i/teamlogos/soccer/500/2029.png",
-      "escudoVisitante": "https://a.espncdn.com/i/teamlogos/soccer/500/2674.png",
-      "horario": "21:30",
-      "estadio": "Allianz Parque",
-      "cidade": "São Paulo",
-      "status": "Agendado",
-      "gols": null,
-      "fonte": "ESPN"
-    },
-    {
-      "id": "401909113",
-      "data": "2026-08-27T00:30Z",
-      "campeonato": "Copa do Brasil",
-      "logoCampeonato": "https://a.espncdn.com/i/leaguelogos/soccer/500/528.png",
-      "mandante": "Vasco",
-      "visitante": "Vitória",
-      "escudoMandante": "https://a.espncdn.com/i/teamlogos/soccer/500/3454.png",
-      "escudoVisitante": "https://a.espncdn.com/i/teamlogos/soccer/500/3457.png",
-      "horario": "21:30",
-      "estadio": "Estádio São Januário",
-      "cidade": "Rio de Janeiro",
-      "status": "Agendado",
-      "gols": null,
-      "fonte": "ESPN"
-    },
-    {
-      "id": "401903295",
-      "data": "2026-08-27T00:30Z",
-      "campeonato": "Sul-Americana",
-      "logoCampeonato": "https://a.espncdn.com/i/leaguelogos/soccer/500/1208.png",
-      "mandante": "River Plate",
-      "visitante": "Independiente Santa Fe",
-      "escudoMandante": "https://a.espncdn.com/i/teamlogos/soccer/500/16.png",
-      "escudoVisitante": "https://a.espncdn.com/i/teamlogos/soccer/500/5488.png",
-      "horario": "21:30",
-      "estadio": "Estadio Más Monumental",
-      "cidade": "Buenos Aires",
-      "status": "Agendado",
-      "gols": null,
-      "fonte": "ESPN"
-    },
     {
       "id": "401909064",
       "data": "2026-08-27T23:00Z",
@@ -65,8 +17,11 @@
       "horario": "20:00",
       "estadio": "Estadio Beira-Rio",
       "cidade": "Porto Alegre",
-      "status": "Agendado",
-      "gols": null,
+      "status": "Segundo tempo",
+      "gols": {
+        "mandante": 0,
+        "visitante": 0
+      },
       "fonte": "ESPN"
     },
     {
@@ -449,6 +404,38 @@
       "horario": "21:30",
       "estadio": "Estadio Manoel Barradas",
       "cidade": "Salvador",
+      "status": "Agendado",
+      "gols": null,
+      "fonte": "ESPN"
+    },
+    {
+      "id": "401860315",
+      "data": "2026-09-03T23:00Z",
+      "campeonato": "Brasileirão — Série B",
+      "logoCampeonato": "https://a.espncdn.com/i/leaguelogos/soccer/500/2299.png",
+      "mandante": "Náutico",
+      "visitante": "Botafogo-SP",
+      "escudoMandante": "https://a.espncdn.com/i/teamlogos/soccer/500/7633.png",
+      "escudoVisitante": "https://a.espncdn.com/i/teamlogos/soccer/500/10281.png",
+      "horario": "20:00",
+      "estadio": "Estádio dos Aflitos",
+      "cidade": "Recife",
+      "status": "Agendado",
+      "gols": null,
+      "fonte": "ESPN"
+    },
+    {
+      "id": "401909114",
+      "data": "2026-09-03T23:00Z",
+      "campeonato": "Copa do Brasil",
+      "logoCampeonato": "https://a.espncdn.com/i/leaguelogos/soccer/500/528.png",
+      "mandante": "Grêmio",
+      "visitante": "Internacional",
+      "escudoMandante": "https://a.espncdn.com/i/teamlogos/soccer/500/6273.png",
+      "escudoVisitante": "https://a.espncdn.com/i/teamlogos/soccer/500/1936.png",
+      "horario": "20:00",
+      "estadio": "Arena do Grêmio",
+      "cidade": "Porto Alegre",
       "status": "Agendado",
       "gols": null,
       "fonte": "ESPN"
