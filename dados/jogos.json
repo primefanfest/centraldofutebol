@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-28T23:43:46.313Z",
+  "atualizadoEm": "2026-08-28T23:56:00.657Z",
   "periodo": {
     "inicio": "2026-08-28",
     "fim": "2026-09-04"
@@ -20,7 +20,7 @@
       "status": "Segundo tempo",
       "gols": {
         "mandante": 1,
-        "visitante": 0
+        "visitante": 1
       },
       "fonte": "ESPN"
     },
@@ -55,7 +55,7 @@
       "horario": "20:30",
       "estadio": "Estádio Dr. Jorge Ismael de Biasi",
       "cidade": "Novo Horizonte",
-      "status": "Ao vivo",
+      "status": "Primeiro tempo",
       "gols": {
         "mandante": 0,
         "visitante": 0
