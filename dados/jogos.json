@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-28T23:31:35.725Z",
+  "atualizadoEm": "2026-08-28T23:43:46.313Z",
   "periodo": {
     "inicio": "2026-08-28",
     "fim": "2026-09-04"
@@ -17,7 +17,7 @@
       "horario": "19:30",
       "estadio": "Estádio da Serrinha",
       "cidade": "Goiãnia",
-      "status": "Ao vivo",
+      "status": "Segundo tempo",
       "gols": {
         "mandante": 1,
         "visitante": 0
@@ -36,8 +36,11 @@
       "horario": "20:30",
       "estadio": "Estádio dos Aflitos",
       "cidade": "Recife",
-      "status": "Agendado",
-      "gols": null,
+      "status": "Primeiro tempo",
+      "gols": {
+        "mandante": 0,
+        "visitante": 1
+      },
       "fonte": "ESPN"
     },
     {
@@ -52,8 +55,11 @@
       "horario": "20:30",
       "estadio": "Estádio Dr. Jorge Ismael de Biasi",
       "cidade": "Novo Horizonte",
-      "status": "Agendado",
-      "gols": null,
+      "status": "Ao vivo",
+      "gols": {
+        "mandante": 0,
+        "visitante": 0
+      },
       "fonte": "ESPN"
     },
     {
