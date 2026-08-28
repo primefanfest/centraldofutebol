@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-28T22:42:24.925Z",
+  "atualizadoEm": "2026-08-28T22:54:45.733Z",
   "periodo": {
     "inicio": "2026-08-28",
     "fim": "2026-09-04"
@@ -19,7 +19,7 @@
       "cidade": "Goiãnia",
       "status": "Primeiro tempo",
       "gols": {
-        "mandante": 0,
+        "mandante": 1,
         "visitante": 0
       },
       "fonte": "ESPN"
