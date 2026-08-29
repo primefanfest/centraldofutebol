@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-29T01:34:50.431Z",
+  "atualizadoEm": "2026-08-29T01:46:59.524Z",
   "periodo": {
     "inicio": "2026-08-28",
     "fim": "2026-09-04"
@@ -36,7 +36,7 @@
       "horario": "20:30",
       "estadio": "Estádio dos Aflitos",
       "cidade": "Recife",
-      "status": "Segundo tempo",
+      "status": "Encerrado",
       "gols": {
         "mandante": 2,
         "visitante": 1
