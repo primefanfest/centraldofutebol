@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-29T00:33:16.683Z",
+  "atualizadoEm": "2026-08-29T00:45:37.391Z",
   "periodo": {
     "inicio": "2026-08-28",
     "fim": "2026-09-04"
@@ -36,7 +36,7 @@
       "horario": "20:30",
       "estadio": "Estádio dos Aflitos",
       "cidade": "Recife",
-      "status": "Ao vivo",
+      "status": "Segundo tempo",
       "gols": {
         "mandante": 0,
         "visitante": 1
@@ -55,7 +55,7 @@
       "horario": "20:30",
       "estadio": "Estádio Dr. Jorge Ismael de Biasi",
       "cidade": "Novo Horizonte",
-      "status": "Ao vivo",
+      "status": "Segundo tempo",
       "gols": {
         "mandante": 1,
         "visitante": 0
