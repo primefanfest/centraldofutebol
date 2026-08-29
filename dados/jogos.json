@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-29T01:10:21.942Z",
+  "atualizadoEm": "2026-08-29T01:22:35.338Z",
   "periodo": {
     "inicio": "2026-08-28",
     "fim": "2026-09-04"
@@ -38,7 +38,7 @@
       "cidade": "Recife",
       "status": "Segundo tempo",
       "gols": {
-        "mandante": 0,
+        "mandante": 1,
         "visitante": 1
       },
       "fonte": "ESPN"
@@ -57,7 +57,7 @@
       "cidade": "Novo Horizonte",
       "status": "Segundo tempo",
       "gols": {
-        "mandante": 1,
+        "mandante": 2,
         "visitante": 0
       },
       "fonte": "ESPN"
