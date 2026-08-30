@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-30T22:11:53.625Z",
+  "atualizadoEm": "2026-08-30T22:24:21.109Z",
   "periodo": {
     "inicio": "2026-08-30",
     "fim": "2026-09-06"
@@ -114,7 +114,7 @@
       "cidade": "Maceio, Alagoas",
       "status": "Segundo tempo",
       "gols": {
-        "mandante": 1,
+        "mandante": 2,
         "visitante": 1
       },
       "fonte": "ESPN"
@@ -131,7 +131,7 @@
       "horario": "18:30",
       "estadio": "Arena do Grêmio",
       "cidade": "Porto Alegre",
-      "status": "Primeiro tempo",
+      "status": "Ao vivo",
       "gols": {
         "mandante": 2,
         "visitante": 1
@@ -150,7 +150,7 @@
       "horario": "18:30",
       "estadio": "Estadio Municipal José Maria de Campos Maia",
       "cidade": "Mirassol",
-      "status": "Primeiro tempo",
+      "status": "Ao vivo",
       "gols": {
         "mandante": 0,
         "visitante": 0
