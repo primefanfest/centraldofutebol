@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-30T20:08:46.005Z",
+  "atualizadoEm": "2026-08-30T20:21:15.355Z",
   "periodo": {
     "inicio": "2026-08-30",
     "fim": "2026-09-06"
@@ -36,7 +36,7 @@
       "horario": "16:00",
       "estadio": "Neo Química Arena",
       "cidade": "São Paulo",
-      "status": "Ao vivo",
+      "status": "Segundo tempo",
       "gols": {
         "mandante": 0,
         "visitante": 1
@@ -55,7 +55,7 @@
       "horario": "16:00",
       "estadio": "Estadio do Maracana",
       "cidade": "Rio de Janeiro",
-      "status": "Ao vivo",
+      "status": "Segundo tempo",
       "gols": {
         "mandante": 1,
         "visitante": 0
@@ -74,9 +74,9 @@
       "horario": "16:00",
       "estadio": "Estádio Raimundo Sampaio (Independência)",
       "cidade": "Belo Horizonte",
-      "status": "Ao vivo",
+      "status": "Segundo tempo",
       "gols": {
-        "mandante": 0,
+        "mandante": 1,
         "visitante": 0
       },
       "fonte": "ESPN"
@@ -93,7 +93,7 @@
       "horario": "16:00",
       "estadio": "Estádio da Ressacada",
       "cidade": "Florianópolis",
-      "status": "Ao vivo",
+      "status": "Segundo tempo",
       "gols": {
         "mandante": 0,
         "visitante": 0
