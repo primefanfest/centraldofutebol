@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-30T20:45:56.807Z",
+  "atualizadoEm": "2026-08-30T20:58:01.374Z",
   "periodo": {
     "inicio": "2026-08-30",
     "fim": "2026-09-06"
@@ -57,7 +57,7 @@
       "cidade": "Rio de Janeiro",
       "status": "Segundo tempo",
       "gols": {
-        "mandante": 1,
+        "mandante": 3,
         "visitante": 0
       },
       "fonte": "ESPN"
