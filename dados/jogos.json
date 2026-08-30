@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-30T14:35:57.815Z",
+  "atualizadoEm": "2026-08-30T14:48:21.859Z",
   "periodo": {
     "inicio": "2026-08-30",
     "fim": "2026-09-06"
@@ -17,10 +17,10 @@
       "horario": "11:00",
       "estadio": "Arena da Baixada",
       "cidade": "Curitiba",
-      "status": "Ao vivo",
+      "status": "Primeiro tempo",
       "gols": {
-        "mandante": 0,
-        "visitante": 0
+        "mandante": 1,
+        "visitante": 1
       },
       "fonte": "ESPN"
     },
