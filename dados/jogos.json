@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-30T23:14:10.683Z",
+  "atualizadoEm": "2026-08-30T23:26:07.235Z",
   "periodo": {
     "inicio": "2026-08-30",
     "fim": "2026-09-06"
@@ -112,9 +112,9 @@
       "horario": "18:00",
       "estadio": "Estádio Rei Pelé",
       "cidade": "Maceio, Alagoas",
-      "status": "Encerrado",
+      "status": "Primeiro tempo",
       "gols": {
-        "mandante": 2,
+        "mandante": 1,
         "visitante": 1
       },
       "fonte": "ESPN"
@@ -131,9 +131,9 @@
       "horario": "18:30",
       "estadio": "Arena do Grêmio",
       "cidade": "Porto Alegre",
-      "status": "Segundo tempo",
+      "status": "Ao vivo",
       "gols": {
-        "mandante": 3,
+        "mandante": 2,
         "visitante": 1
       },
       "fonte": "ESPN"
@@ -150,10 +150,10 @@
       "horario": "18:30",
       "estadio": "Estadio Municipal José Maria de Campos Maia",
       "cidade": "Mirassol",
-      "status": "Segundo tempo",
+      "status": "Ao vivo",
       "gols": {
-        "mandante": 1,
-        "visitante": 1
+        "mandante": 0,
+        "visitante": 0
       },
       "fonte": "ESPN"
     },
@@ -169,7 +169,7 @@
       "horario": "18:30",
       "estadio": "Estádio Onésio Brasileiro Alvarenga",
       "cidade": "Goiãnia",
-      "status": "Segundo tempo",
+      "status": "Primeiro tempo",
       "gols": {
         "mandante": 1,
         "visitante": 0
@@ -188,11 +188,8 @@
       "horario": "19:30",
       "estadio": "Arena Fonte Nova",
       "cidade": "Salvador",
-      "status": "Primeiro tempo",
-      "gols": {
-        "mandante": 1,
-        "visitante": 1
-      },
+      "status": "Agendado",
+      "gols": null,
       "fonte": "ESPN"
     },
     {
