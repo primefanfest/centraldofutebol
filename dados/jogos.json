@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-30T23:01:37.663Z",
+  "atualizadoEm": "2026-08-30T23:14:10.683Z",
   "periodo": {
     "inicio": "2026-08-30",
     "fim": "2026-09-06"
@@ -112,7 +112,7 @@
       "horario": "18:00",
       "estadio": "Estádio Rei Pelé",
       "cidade": "Maceio, Alagoas",
-      "status": "Segundo tempo",
+      "status": "Encerrado",
       "gols": {
         "mandante": 2,
         "visitante": 1
@@ -153,7 +153,7 @@
       "status": "Segundo tempo",
       "gols": {
         "mandante": 1,
-        "visitante": 0
+        "visitante": 1
       },
       "fonte": "ESPN"
     },
