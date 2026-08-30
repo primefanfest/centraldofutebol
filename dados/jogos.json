@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-30T21:35:07.562Z",
+  "atualizadoEm": "2026-08-30T21:47:24.184Z",
   "periodo": {
     "inicio": "2026-08-30",
     "fim": "2026-09-06"
@@ -36,7 +36,7 @@
       "horario": "16:00",
       "estadio": "Neo Química Arena",
       "cidade": "São Paulo",
-      "status": "Encerrado",
+      "status": "Segundo tempo",
       "gols": {
         "mandante": 0,
         "visitante": 1
@@ -55,9 +55,9 @@
       "horario": "16:00",
       "estadio": "Estadio do Maracana",
       "cidade": "Rio de Janeiro",
-      "status": "Encerrado",
+      "status": "Segundo tempo",
       "gols": {
-        "mandante": 3,
+        "mandante": 1,
         "visitante": 0
       },
       "fonte": "ESPN"
@@ -74,9 +74,9 @@
       "horario": "16:00",
       "estadio": "Estádio Raimundo Sampaio (Independência)",
       "cidade": "Belo Horizonte",
-      "status": "Encerrado",
+      "status": "Primeiro tempo",
       "gols": {
-        "mandante": 2,
+        "mandante": 0,
         "visitante": 0
       },
       "fonte": "ESPN"
@@ -93,10 +93,10 @@
       "horario": "16:00",
       "estadio": "Estádio da Ressacada",
       "cidade": "Florianópolis",
-      "status": "Encerrado",
+      "status": "Primeiro tempo",
       "gols": {
         "mandante": 0,
-        "visitante": 1
+        "visitante": 0
       },
       "fonte": "ESPN"
     },
@@ -112,11 +112,8 @@
       "horario": "18:00",
       "estadio": "Estádio Rei Pelé",
       "cidade": "Maceio, Alagoas",
-      "status": "Primeiro tempo",
-      "gols": {
-        "mandante": 0,
-        "visitante": 0
-      },
+      "status": "Agendado",
+      "gols": null,
       "fonte": "ESPN"
     },
     {
@@ -131,11 +128,8 @@
       "horario": "18:30",
       "estadio": "Arena do Grêmio",
       "cidade": "Porto Alegre",
-      "status": "Primeiro tempo",
-      "gols": {
-        "mandante": 0,
-        "visitante": 0
-      },
+      "status": "Agendado",
+      "gols": null,
       "fonte": "ESPN"
     },
     {
@@ -150,11 +144,8 @@
       "horario": "18:30",
       "estadio": "Estadio Municipal José Maria de Campos Maia",
       "cidade": "Mirassol",
-      "status": "Primeiro tempo",
-      "gols": {
-        "mandante": 0,
-        "visitante": 0
-      },
+      "status": "Agendado",
+      "gols": null,
       "fonte": "ESPN"
     },
     {
@@ -169,11 +160,8 @@
       "horario": "18:30",
       "estadio": "Estádio Onésio Brasileiro Alvarenga",
       "cidade": "Goiãnia",
-      "status": "Primeiro tempo",
-      "gols": {
-        "mandante": 0,
-        "visitante": 0
-      },
+      "status": "Agendado",
+      "gols": null,
       "fonte": "ESPN"
     },
     {
