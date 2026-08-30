@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-30T00:55:18.054Z",
+  "atualizadoEm": "2026-08-30T01:07:42.368Z",
   "periodo": {
     "inicio": "2026-08-29",
     "fim": "2026-09-05"
@@ -55,10 +55,10 @@
       "horario": "20:00",
       "estadio": "Estádio Cícero Pompeu de Toledo",
       "cidade": "São Paulo",
-      "status": "Ao vivo",
+      "status": "Segundo tempo",
       "gols": {
         "mandante": 2,
-        "visitante": 0
+        "visitante": 1
       },
       "fonte": "ESPN"
     },
@@ -76,7 +76,7 @@
       "cidade": "Rio de Janeiro",
       "status": "Primeiro tempo",
       "gols": {
-        "mandante": 0,
+        "mandante": 1,
         "visitante": 0
       },
       "fonte": "ESPN"
