@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-30T01:32:49.230Z",
+  "atualizadoEm": "2026-08-30T01:45:08.592Z",
   "periodo": {
     "inicio": "2026-08-29",
     "fim": "2026-09-05"
@@ -74,9 +74,9 @@
       "horario": "21:20",
       "estadio": "Estádio São Januário",
       "cidade": "Rio de Janeiro",
-      "status": "Ao vivo",
+      "status": "Segundo tempo",
       "gols": {
-        "mandante": 1,
+        "mandante": 2,
         "visitante": 0
       },
       "fonte": "ESPN"
