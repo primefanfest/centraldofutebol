@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-30T19:44:24.729Z",
+  "atualizadoEm": "2026-08-30T19:56:31.704Z",
   "periodo": {
     "inicio": "2026-08-30",
     "fim": "2026-09-06"
@@ -36,7 +36,7 @@
       "horario": "16:00",
       "estadio": "Neo Química Arena",
       "cidade": "São Paulo",
-      "status": "Primeiro tempo",
+      "status": "Ao vivo",
       "gols": {
         "mandante": 0,
         "visitante": 1
@@ -74,7 +74,7 @@
       "horario": "16:00",
       "estadio": "Estádio Raimundo Sampaio (Independência)",
       "cidade": "Belo Horizonte",
-      "status": "Primeiro tempo",
+      "status": "Ao vivo",
       "gols": {
         "mandante": 0,
         "visitante": 0
@@ -93,7 +93,7 @@
       "horario": "16:00",
       "estadio": "Estádio da Ressacada",
       "cidade": "Florianópolis",
-      "status": "Primeiro tempo",
+      "status": "Ao vivo",
       "gols": {
         "mandante": 0,
         "visitante": 0
