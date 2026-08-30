@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-30T14:48:21.859Z",
+  "atualizadoEm": "2026-08-30T15:00:51.709Z",
   "periodo": {
     "inicio": "2026-08-30",
     "fim": "2026-09-06"
@@ -19,8 +19,8 @@
       "cidade": "Curitiba",
       "status": "Primeiro tempo",
       "gols": {
-        "mandante": 1,
-        "visitante": 1
+        "mandante": 0,
+        "visitante": 0
       },
       "fonte": "ESPN"
     },
