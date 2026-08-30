@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-30T00:42:48.765Z",
+  "atualizadoEm": "2026-08-30T00:55:18.054Z",
   "periodo": {
     "inicio": "2026-08-29",
     "fim": "2026-09-05"
@@ -55,7 +55,7 @@
       "horario": "20:00",
       "estadio": "Estádio Cícero Pompeu de Toledo",
       "cidade": "São Paulo",
-      "status": "Segundo tempo",
+      "status": "Ao vivo",
       "gols": {
         "mandante": 2,
         "visitante": 0
