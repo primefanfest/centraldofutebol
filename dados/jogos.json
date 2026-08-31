@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-31T00:40:55.206Z",
+  "atualizadoEm": "2026-08-31T00:53:17.496Z",
   "periodo": {
     "inicio": "2026-08-30",
     "fim": "2026-09-06"
@@ -188,7 +188,7 @@
       "horario": "19:30",
       "estadio": "Arena Fonte Nova",
       "cidade": "Salvador",
-      "status": "Segundo tempo",
+      "status": "Encerrado",
       "gols": {
         "mandante": 3,
         "visitante": 2
