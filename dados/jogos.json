@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-31T00:03:50.862Z",
+  "atualizadoEm": "2026-08-31T00:16:09.181Z",
   "periodo": {
     "inicio": "2026-08-30",
     "fim": "2026-09-06"
@@ -169,7 +169,7 @@
       "horario": "18:30",
       "estadio": "Estádio Onésio Brasileiro Alvarenga",
       "cidade": "Goiãnia",
-      "status": "Encerrado",
+      "status": "Segundo tempo",
       "gols": {
         "mandante": 2,
         "visitante": 0
@@ -188,10 +188,10 @@
       "horario": "19:30",
       "estadio": "Arena Fonte Nova",
       "cidade": "Salvador",
-      "status": "Segundo tempo",
+      "status": "Ao vivo",
       "gols": {
         "mandante": 3,
-        "visitante": 2
+        "visitante": 1
       },
       "fonte": "ESPN"
     },
