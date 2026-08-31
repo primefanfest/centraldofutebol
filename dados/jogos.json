@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-08-31T22:50:06.712Z",
+  "atualizadoEm": "2026-08-31T23:02:26.291Z",
   "periodo": {
     "inicio": "2026-08-31",
     "fim": "2026-09-07"
@@ -17,8 +17,11 @@
       "horario": "19:30",
       "estadio": "Arena Castelão",
       "cidade": "Fortaleza",
-      "status": "Agendado",
-      "gols": null,
+      "status": "Primeiro tempo",
+      "gols": {
+        "mandante": 0,
+        "visitante": 0
+      },
       "fonte": "ESPN"
     },
     {
