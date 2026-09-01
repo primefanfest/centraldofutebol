@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-01T22:57:22.102Z",
+  "atualizadoEm": "2026-09-01T23:14:19.849Z",
   "periodo": {
     "inicio": "2026-09-01",
     "fim": "2026-09-08"
@@ -17,7 +17,7 @@
       "horario": "19:30",
       "estadio": "Estadio VGD",
       "cidade": "Londrina",
-      "status": "Ao vivo",
+      "status": "Primeiro tempo",
       "gols": {
         "mandante": 0,
         "visitante": 0
