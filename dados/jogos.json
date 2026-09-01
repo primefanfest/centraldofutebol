@@ -1,48 +1,10 @@
 {
-  "atualizadoEm": "2026-09-01T02:59:35.337Z",
+  "atualizadoEm": "2026-09-01T03:20:15.012Z",
   "periodo": {
-    "inicio": "2026-08-31",
-    "fim": "2026-09-07"
+    "inicio": "2026-09-01",
+    "fim": "2026-09-08"
   },
   "jogos": [
-    {
-      "id": "401860311",
-      "data": "2026-08-31T22:30Z",
-      "campeonato": "Brasileirão — Série B",
-      "logoCampeonato": "https://a.espncdn.com/i/leaguelogos/soccer/500/2299.png",
-      "mandante": "Fortaleza",
-      "visitante": "Operário PR",
-      "escudoMandante": "https://a.espncdn.com/i/teamlogos/soccer/500/6272.png",
-      "escudoVisitante": "https://a.espncdn.com/i/teamlogos/soccer/500/18187.png",
-      "horario": "19:30",
-      "estadio": "Arena Castelão",
-      "cidade": "Fortaleza",
-      "status": "Encerrado",
-      "gols": {
-        "mandante": 1,
-        "visitante": 1
-      },
-      "fonte": "ESPN"
-    },
-    {
-      "id": "401841210",
-      "data": "2026-08-31T23:00Z",
-      "campeonato": "Brasileirão — Série A",
-      "logoCampeonato": "https://a.espncdn.com/i/leaguelogos/soccer/500/85.png",
-      "mandante": "Remo",
-      "visitante": "Coritiba",
-      "escudoMandante": "https://a.espncdn.com/i/teamlogos/soccer/500/4936.png",
-      "escudoVisitante": "https://a.espncdn.com/i/teamlogos/soccer/500/3456.png",
-      "horario": "20:00",
-      "estadio": "Mangueirão",
-      "cidade": "Belém",
-      "status": "Encerrado",
-      "gols": {
-        "mandante": 2,
-        "visitante": 3
-      },
-      "fonte": "ESPN"
-    },
     {
       "id": "401860308",
       "data": "2026-09-01T22:30Z",
@@ -455,6 +417,86 @@
       "horario": "20:00",
       "estadio": "Estadio Manoel Barradas",
       "cidade": "Salvador",
+      "status": "Agendado",
+      "gols": null,
+      "fonte": "ESPN"
+    },
+    {
+      "id": "401912518",
+      "data": "2026-09-08T22:00Z",
+      "campeonato": "Libertadores",
+      "logoCampeonato": "https://a.espncdn.com/i/leaguelogos/soccer/500/58.png",
+      "mandante": "Fluminense",
+      "visitante": "Platense",
+      "escudoMandante": "https://a.espncdn.com/i/teamlogos/soccer/500/3445.png",
+      "escudoVisitante": "https://a.espncdn.com/i/teamlogos/soccer/500/7764.png",
+      "horario": "19:00",
+      "estadio": "Estadio do Maracana",
+      "cidade": "Rio de Janeiro",
+      "status": "Agendado",
+      "gols": null,
+      "fonte": "ESPN"
+    },
+    {
+      "id": "401913960",
+      "data": "2026-09-08T22:00Z",
+      "campeonato": "Sul-Americana",
+      "logoCampeonato": "https://a.espncdn.com/i/leaguelogos/soccer/500/1208.png",
+      "mandante": "Independiente Santa Fe",
+      "visitante": "Vasco",
+      "escudoMandante": "https://a.espncdn.com/i/teamlogos/soccer/500/5488.png",
+      "escudoVisitante": "https://a.espncdn.com/i/teamlogos/soccer/500/3454.png",
+      "horario": "19:00",
+      "estadio": "Estadio Nemesio Camacho El Campín",
+      "cidade": "Bogotá",
+      "status": "Agendado",
+      "gols": null,
+      "fonte": "ESPN"
+    },
+    {
+      "id": "401860327",
+      "data": "2026-09-08T23:30Z",
+      "campeonato": "Brasileirão — Série B",
+      "logoCampeonato": "https://a.espncdn.com/i/leaguelogos/soccer/500/2299.png",
+      "mandante": "Cuiabá",
+      "visitante": "Athletic",
+      "escudoMandante": "https://a.espncdn.com/i/teamlogos/soccer/500/17313.png",
+      "escudoVisitante": "https://a.espncdn.com/i/teamlogos/soccer/500/20851.png",
+      "horario": "20:30",
+      "estadio": "Arena Pantanal",
+      "cidade": "Cuiabá",
+      "status": "Agendado",
+      "gols": null,
+      "fonte": "ESPN"
+    },
+    {
+      "id": "401860328",
+      "data": "2026-09-09T00:30Z",
+      "campeonato": "Brasileirão — Série B",
+      "logoCampeonato": "https://a.espncdn.com/i/leaguelogos/soccer/500/2299.png",
+      "mandante": "Criciúma",
+      "visitante": "Juventude",
+      "escudoMandante": "https://a.espncdn.com/i/teamlogos/soccer/500/9971.png",
+      "escudoVisitante": "https://a.espncdn.com/i/teamlogos/soccer/500/6270.png",
+      "horario": "21:30",
+      "estadio": "Heriberto Hülse",
+      "cidade": "Criciúma",
+      "status": "Agendado",
+      "gols": null,
+      "fonte": "ESPN"
+    },
+    {
+      "id": "401912542",
+      "data": "2026-09-09T00:30Z",
+      "campeonato": "Sul-Americana",
+      "logoCampeonato": "https://a.espncdn.com/i/leaguelogos/soccer/500/1208.png",
+      "mandante": "Boca Juniors",
+      "visitante": "São Paulo",
+      "escudoMandante": "https://a.espncdn.com/i/teamlogos/soccer/500/5.png",
+      "escudoVisitante": "https://a.espncdn.com/i/teamlogos/soccer/500/2026.png",
+      "horario": "21:30",
+      "estadio": "Alberto José Armando (La Bombonera)",
+      "cidade": "Buenos Aires",
       "status": "Agendado",
       "gols": null,
       "fonte": "ESPN"
