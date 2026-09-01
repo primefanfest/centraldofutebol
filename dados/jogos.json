@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-01T00:39:14.799Z",
+  "atualizadoEm": "2026-09-01T00:57:15.388Z",
   "periodo": {
     "inicio": "2026-08-31",
     "fim": "2026-09-07"
@@ -17,10 +17,10 @@
       "horario": "19:30",
       "estadio": "Arena Castelão",
       "cidade": "Fortaleza",
-      "status": "Segundo tempo",
+      "status": "Primeiro tempo",
       "gols": {
-        "mandante": 1,
-        "visitante": 1
+        "mandante": 0,
+        "visitante": 0
       },
       "fonte": "ESPN"
     },
@@ -36,11 +36,8 @@
       "horario": "20:00",
       "estadio": "Mangueirão",
       "cidade": "Belém",
-      "status": "Segundo tempo",
-      "gols": {
-        "mandante": 0,
-        "visitante": 1
-      },
+      "status": "Agendado",
+      "gols": null,
       "fonte": "ESPN"
     },
     {
