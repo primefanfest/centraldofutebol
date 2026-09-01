@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-01T01:16:25.458Z",
+  "atualizadoEm": "2026-09-01T01:30:32.061Z",
   "periodo": {
     "inicio": "2026-08-31",
     "fim": "2026-09-07"
@@ -36,10 +36,10 @@
       "horario": "20:00",
       "estadio": "Mangueirão",
       "cidade": "Belém",
-      "status": "Segundo tempo",
+      "status": "Encerrado",
       "gols": {
         "mandante": 2,
-        "visitante": 1
+        "visitante": 3
       },
       "fonte": "ESPN"
     },
