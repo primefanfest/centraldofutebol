@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-02T23:18:42.704Z",
+  "atualizadoEm": "2026-09-02T23:32:09.391Z",
   "periodo": {
     "inicio": "2026-09-02",
     "fim": "2026-09-09"
@@ -19,7 +19,7 @@
       "cidade": "Rio de Janeiro",
       "status": "Ao vivo",
       "gols": {
-        "mandante": 1,
+        "mandante": 2,
         "visitante": 0
       },
       "fonte": "ESPN"
