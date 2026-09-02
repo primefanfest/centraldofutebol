@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-02T01:49:36.142Z",
+  "atualizadoEm": "2026-09-02T02:09:27.557Z",
   "periodo": {
     "inicio": "2026-09-01",
     "fim": "2026-09-08"
@@ -38,7 +38,7 @@
       "cidade": "Belo Horizonte",
       "status": "Segundo tempo",
       "gols": {
-        "mandante": 0,
+        "mandante": 1,
         "visitante": 1
       },
       "fonte": "ESPN"
