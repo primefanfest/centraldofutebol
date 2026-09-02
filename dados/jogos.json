@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-02T02:09:27.557Z",
+  "atualizadoEm": "2026-09-02T02:39:51.095Z",
   "periodo": {
     "inicio": "2026-09-01",
     "fim": "2026-09-08"
@@ -36,9 +36,9 @@
       "horario": "21:00",
       "estadio": "Arena MRV",
       "cidade": "Belo Horizonte",
-      "status": "Segundo tempo",
+      "status": "Encerrado",
       "gols": {
-        "mandante": 1,
+        "mandante": 2,
         "visitante": 1
       },
       "fonte": "ESPN"
