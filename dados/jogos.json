@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-02T00:13:24.466Z",
+  "atualizadoEm": "2026-09-02T00:38:38.360Z",
   "periodo": {
     "inicio": "2026-09-01",
     "fim": "2026-09-08"
@@ -17,7 +17,7 @@
       "horario": "19:30",
       "estadio": "Estadio VGD",
       "cidade": "Londrina",
-      "status": "Segundo tempo",
+      "status": "Encerrado",
       "gols": {
         "mandante": 0,
         "visitante": 0
@@ -36,10 +36,10 @@
       "horario": "21:00",
       "estadio": "Arena MRV",
       "cidade": "Belo Horizonte",
-      "status": "Primeiro tempo",
+      "status": "Ao vivo",
       "gols": {
         "mandante": 0,
-        "visitante": 0
+        "visitante": 1
       },
       "fonte": "ESPN"
     },
