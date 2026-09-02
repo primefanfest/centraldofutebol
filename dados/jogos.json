@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-02T00:54:13.846Z",
+  "atualizadoEm": "2026-09-02T01:10:44.172Z",
   "periodo": {
     "inicio": "2026-09-01",
     "fim": "2026-09-08"
@@ -36,7 +36,7 @@
       "horario": "21:00",
       "estadio": "Arena MRV",
       "cidade": "Belo Horizonte",
-      "status": "Primeiro tempo",
+      "status": "Ao vivo",
       "gols": {
         "mandante": 0,
         "visitante": 1
