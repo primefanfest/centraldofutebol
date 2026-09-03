@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-03T01:42:31.087Z",
+  "atualizadoEm": "2026-09-03T01:56:24.572Z",
   "periodo": {
     "inicio": "2026-09-02",
     "fim": "2026-09-09"
@@ -36,7 +36,7 @@
       "horario": "21:30",
       "estadio": "Estádio Vila Belmiro (Urbano Caldeira)",
       "cidade": "Santos",
-      "status": "Primeiro tempo",
+      "status": "Segundo tempo",
       "gols": {
         "mandante": 0,
         "visitante": 0
@@ -55,7 +55,7 @@
       "horario": "21:30",
       "estadio": "Estadio Manoel Barradas",
       "cidade": "Salvador",
-      "status": "Primeiro tempo",
+      "status": "Segundo tempo",
       "gols": {
         "mandante": 0,
         "visitante": 0
