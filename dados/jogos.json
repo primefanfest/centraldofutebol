@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-03T00:28:54.603Z",
+  "atualizadoEm": "2026-09-03T00:49:15.679Z",
   "periodo": {
     "inicio": "2026-09-02",
     "fim": "2026-09-09"
@@ -17,7 +17,7 @@
       "horario": "19:30",
       "estadio": "Estadio do Maracana",
       "cidade": "Rio de Janeiro",
-      "status": "Segundo tempo",
+      "status": "Encerrado",
       "gols": {
         "mandante": 2,
         "visitante": 0
@@ -36,8 +36,11 @@
       "horario": "21:30",
       "estadio": "Estádio Vila Belmiro (Urbano Caldeira)",
       "cidade": "Santos",
-      "status": "Agendado",
-      "gols": null,
+      "status": "Primeiro tempo",
+      "gols": {
+        "mandante": 0,
+        "visitante": 0
+      },
       "fonte": "ESPN"
     },
     {
@@ -52,8 +55,11 @@
       "horario": "21:30",
       "estadio": "Estadio Manoel Barradas",
       "cidade": "Salvador",
-      "status": "Agendado",
-      "gols": null,
+      "status": "Primeiro tempo",
+      "gols": {
+        "mandante": 0,
+        "visitante": 0
+      },
       "fonte": "ESPN"
     },
     {
