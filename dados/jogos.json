@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-04T00:34:08.987Z",
+  "atualizadoEm": "2026-09-04T00:50:58.247Z",
   "periodo": {
     "inicio": "2026-09-03",
     "fim": "2026-09-10"
@@ -38,8 +38,8 @@
       "cidade": "Porto Alegre",
       "status": "Segundo tempo",
       "gols": {
-        "mandante": 2,
-        "visitante": 0
+        "mandante": 3,
+        "visitante": 1
       },
       "fonte": "ESPN"
     },
