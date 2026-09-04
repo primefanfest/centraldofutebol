@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-04T01:32:48.846Z",
+  "atualizadoEm": "2026-09-04T01:47:40.154Z",
   "periodo": {
     "inicio": "2026-09-03",
     "fim": "2026-09-10"
@@ -17,7 +17,7 @@
       "horario": "20:00",
       "estadio": "Estádio dos Aflitos",
       "cidade": "Recife",
-      "status": "Encerrado",
+      "status": "Segundo tempo",
       "gols": {
         "mandante": 1,
         "visitante": 0
@@ -36,7 +36,7 @@
       "horario": "20:00",
       "estadio": "Arena do Grêmio",
       "cidade": "Porto Alegre",
-      "status": "Encerrado",
+      "status": "Segundo tempo",
       "gols": {
         "mandante": 3,
         "visitante": 1
