@@ -1,48 +1,10 @@
 {
-  "atualizadoEm": "2026-09-04T02:48:28.458Z",
+  "atualizadoEm": "2026-09-04T03:01:09.887Z",
   "periodo": {
-    "inicio": "2026-09-03",
-    "fim": "2026-09-10"
+    "inicio": "2026-09-04",
+    "fim": "2026-09-11"
   },
   "jogos": [
-    {
-      "id": "401860315",
-      "data": "2026-09-03T23:00Z",
-      "campeonato": "Brasileirão — Série B",
-      "logoCampeonato": "https://a.espncdn.com/i/leaguelogos/soccer/500/2299.png",
-      "mandante": "Náutico",
-      "visitante": "Botafogo-SP",
-      "escudoMandante": "https://a.espncdn.com/i/teamlogos/soccer/500/7633.png",
-      "escudoVisitante": "https://a.espncdn.com/i/teamlogos/soccer/500/10281.png",
-      "horario": "20:00",
-      "estadio": "Estádio dos Aflitos",
-      "cidade": "Recife",
-      "status": "Encerrado",
-      "gols": {
-        "mandante": 1,
-        "visitante": 0
-      },
-      "fonte": "ESPN"
-    },
-    {
-      "id": "401909114",
-      "data": "2026-09-03T23:00Z",
-      "campeonato": "Copa do Brasil",
-      "logoCampeonato": "https://a.espncdn.com/i/leaguelogos/soccer/500/528.png",
-      "mandante": "Grêmio",
-      "visitante": "Internacional",
-      "escudoMandante": "https://a.espncdn.com/i/teamlogos/soccer/500/6273.png",
-      "escudoVisitante": "https://a.espncdn.com/i/teamlogos/soccer/500/1936.png",
-      "horario": "20:00",
-      "estadio": "Arena do Grêmio",
-      "cidade": "Porto Alegre",
-      "status": "Encerrado",
-      "gols": {
-        "mandante": 3,
-        "visitante": 1
-      },
-      "fonte": "ESPN"
-    },
     {
       "id": "401860312",
       "data": "2026-09-04T22:30Z",
@@ -631,6 +593,22 @@
       "horario": "21:30",
       "estadio": "Estadio Inca Garcilaso de la Vega",
       "cidade": "Cusco",
+      "status": "Agendado",
+      "gols": null,
+      "fonte": "ESPN"
+    },
+    {
+      "id": "401841232",
+      "data": "2026-09-12T00:00Z",
+      "campeonato": "Brasileirão — Série A",
+      "logoCampeonato": "https://a.espncdn.com/i/leaguelogos/soccer/500/85.png",
+      "mandante": "Coritiba",
+      "visitante": "Athletico-PR",
+      "escudoMandante": "https://a.espncdn.com/i/teamlogos/soccer/500/3456.png",
+      "escudoVisitante": "https://a.espncdn.com/i/teamlogos/soccer/500/3458.png",
+      "horario": "21:00",
+      "estadio": "Couto Pereira",
+      "cidade": "Curitiba",
       "status": "Agendado",
       "gols": null,
       "fonte": "ESPN"
