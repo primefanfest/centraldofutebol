@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-04T22:41:53.485Z",
+  "atualizadoEm": "2026-09-04T22:54:03.418Z",
   "periodo": {
     "inicio": "2026-09-04",
     "fim": "2026-09-11"
@@ -19,7 +19,7 @@
       "cidade": "Criciúma",
       "status": "Primeiro tempo",
       "gols": {
-        "mandante": 0,
+        "mandante": 1,
         "visitante": 0
       },
       "fonte": "ESPN"
