@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-04T22:28:16.599Z",
+  "atualizadoEm": "2026-09-04T22:41:53.485Z",
   "periodo": {
     "inicio": "2026-09-04",
     "fim": "2026-09-11"
@@ -17,8 +17,11 @@
       "horario": "19:30",
       "estadio": "Heriberto Hülse",
       "cidade": "Criciúma",
-      "status": "Agendado",
-      "gols": null,
+      "status": "Primeiro tempo",
+      "gols": {
+        "mandante": 0,
+        "visitante": 0
+      },
       "fonte": "ESPN"
     },
     {
