@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-04T01:47:40.154Z",
+  "atualizadoEm": "2026-09-04T01:59:52.606Z",
   "periodo": {
     "inicio": "2026-09-03",
     "fim": "2026-09-10"
@@ -36,7 +36,7 @@
       "horario": "20:00",
       "estadio": "Arena do Grêmio",
       "cidade": "Porto Alegre",
-      "status": "Segundo tempo",
+      "status": "Encerrado",
       "gols": {
         "mandante": 3,
         "visitante": 1
