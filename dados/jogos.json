@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-04T23:50:16.318Z",
+  "atualizadoEm": "2026-09-05T00:06:57.937Z",
   "periodo": {
     "inicio": "2026-09-04",
     "fim": "2026-09-11"
@@ -19,7 +19,7 @@
       "cidade": "Criciúma",
       "status": "Segundo tempo",
       "gols": {
-        "mandante": 1,
+        "mandante": 2,
         "visitante": 0
       },
       "fonte": "ESPN"
@@ -38,7 +38,7 @@
       "cidade": "Sao Joao del Rei",
       "status": "Primeiro tempo",
       "gols": {
-        "mandante": 0,
+        "mandante": 1,
         "visitante": 0
       },
       "fonte": "ESPN"
