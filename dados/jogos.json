@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-05T00:34:13.132Z",
+  "atualizadoEm": "2026-09-05T00:51:04.114Z",
   "periodo": {
     "inicio": "2026-09-04",
     "fim": "2026-09-11"
@@ -36,7 +36,7 @@
       "horario": "20:30",
       "estadio": "Estádio Joaquim Portugal",
       "cidade": "Sao Joao del Rei",
-      "status": "Ao vivo",
+      "status": "Segundo tempo",
       "gols": {
         "mandante": 3,
         "visitante": 0
