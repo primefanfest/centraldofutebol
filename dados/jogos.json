@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-05T01:47:47.548Z",
+  "atualizadoEm": "2026-09-05T01:59:58.850Z",
   "periodo": {
     "inicio": "2026-09-04",
     "fim": "2026-09-11"
@@ -36,9 +36,9 @@
       "horario": "20:30",
       "estadio": "Estádio Joaquim Portugal",
       "cidade": "Sao Joao del Rei",
-      "status": "Segundo tempo",
+      "status": "Encerrado",
       "gols": {
-        "mandante": 3,
+        "mandante": 5,
         "visitante": 0
       },
       "fonte": "ESPN"
@@ -55,9 +55,9 @@
       "horario": "21:30",
       "estadio": "Estádio Rei Pelé",
       "cidade": "Maceio, Alagoas",
-      "status": "Primeiro tempo",
+      "status": "Ao vivo",
       "gols": {
-        "mandante": 0,
+        "mandante": 1,
         "visitante": 0
       },
       "fonte": "ESPN"
