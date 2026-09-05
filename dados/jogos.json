@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-05T01:20:40.807Z",
+  "atualizadoEm": "2026-09-05T01:34:31.411Z",
   "periodo": {
     "inicio": "2026-09-04",
     "fim": "2026-09-11"
@@ -38,7 +38,7 @@
       "cidade": "Sao Joao del Rei",
       "status": "Segundo tempo",
       "gols": {
-        "mandante": 3,
+        "mandante": 4,
         "visitante": 0
       },
       "fonte": "ESPN"
