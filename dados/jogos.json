@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-05T02:19:07.462Z",
+  "atualizadoEm": "2026-09-05T02:34:02.294Z",
   "periodo": {
     "inicio": "2026-09-04",
     "fim": "2026-09-11"
@@ -57,8 +57,8 @@
       "cidade": "Maceio, Alagoas",
       "status": "Segundo tempo",
       "gols": {
-        "mandante": 2,
-        "visitante": 0
+        "mandante": 3,
+        "visitante": 1
       },
       "fonte": "ESPN"
     },
