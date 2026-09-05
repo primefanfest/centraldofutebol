@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-05T22:41:39.929Z",
+  "atualizadoEm": "2026-09-05T22:53:53.263Z",
   "periodo": {
     "inicio": "2026-09-05",
     "fim": "2026-09-12"
@@ -74,10 +74,10 @@
       "horario": "18:00",
       "estadio": "Alfredo Jaconi",
       "cidade": "Caxias do Sul",
-      "status": "Primeiro tempo",
+      "status": "Segundo tempo",
       "gols": {
-        "mandante": 0,
-        "visitante": 0
+        "mandante": 2,
+        "visitante": 2
       },
       "fonte": "ESPN"
     },
@@ -93,7 +93,7 @@
       "horario": "18:30",
       "estadio": "Estádio Cícero Pompeu de Toledo",
       "cidade": "São Paulo",
-      "status": "Primeiro tempo",
+      "status": "Segundo tempo",
       "gols": {
         "mandante": 0,
         "visitante": 0
@@ -112,8 +112,11 @@
       "horario": "18:30",
       "estadio": "Arena Castelão",
       "cidade": "Fortaleza",
-      "status": "Agendado",
-      "gols": null,
+      "status": "Segundo tempo",
+      "gols": {
+        "mandante": 0,
+        "visitante": 0
+      },
       "fonte": "ESPN"
     },
     {
