@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-05T20:50:00.940Z",
+  "atualizadoEm": "2026-09-05T21:03:33.102Z",
   "periodo": {
     "inicio": "2026-09-05",
     "fim": "2026-09-12"
@@ -17,10 +17,10 @@
       "horario": "16:00",
       "estadio": "Estádio Municipal Cicero de Souza Marques",
       "cidade": "Bragança Paulista",
-      "status": "Primeiro tempo",
+      "status": "Segundo tempo",
       "gols": {
-        "mandante": 0,
-        "visitante": 0
+        "mandante": 2,
+        "visitante": 3
       },
       "fonte": "ESPN"
     },
@@ -36,8 +36,11 @@
       "horario": "16:00",
       "estadio": "Estádio da Serrinha",
       "cidade": "Goiãnia",
-      "status": "Agendado",
-      "gols": null,
+      "status": "Encerrado",
+      "gols": {
+        "mandante": 0,
+        "visitante": 1
+      },
       "fonte": "ESPN"
     },
     {
@@ -52,8 +55,11 @@
       "horario": "16:00",
       "estadio": "Estádio Dr. Jorge Ismael de Biasi",
       "cidade": "Novo Horizonte",
-      "status": "Agendado",
-      "gols": null,
+      "status": "Encerrado",
+      "gols": {
+        "mandante": 3,
+        "visitante": 1
+      },
       "fonte": "ESPN"
     },
     {
@@ -68,8 +74,11 @@
       "horario": "18:00",
       "estadio": "Alfredo Jaconi",
       "cidade": "Caxias do Sul",
-      "status": "Agendado",
-      "gols": null,
+      "status": "Primeiro tempo",
+      "gols": {
+        "mandante": 0,
+        "visitante": 0
+      },
       "fonte": "ESPN"
     },
     {
