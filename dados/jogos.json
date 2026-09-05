@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-05T22:53:53.263Z",
+  "atualizadoEm": "2026-09-05T23:10:29.671Z",
   "periodo": {
     "inicio": "2026-09-05",
     "fim": "2026-09-12"
@@ -74,7 +74,7 @@
       "horario": "18:00",
       "estadio": "Alfredo Jaconi",
       "cidade": "Caxias do Sul",
-      "status": "Segundo tempo",
+      "status": "Encerrado",
       "gols": {
         "mandante": 2,
         "visitante": 2
@@ -95,7 +95,7 @@
       "cidade": "São Paulo",
       "status": "Segundo tempo",
       "gols": {
-        "mandante": 0,
+        "mandante": 2,
         "visitante": 0
       },
       "fonte": "ESPN"
@@ -114,7 +114,7 @@
       "cidade": "Fortaleza",
       "status": "Segundo tempo",
       "gols": {
-        "mandante": 0,
+        "mandante": 1,
         "visitante": 0
       },
       "fonte": "ESPN"
