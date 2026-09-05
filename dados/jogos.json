@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-05T23:24:46.644Z",
+  "atualizadoEm": "2026-09-05T23:38:14.663Z",
   "periodo": {
     "inicio": "2026-09-05",
     "fim": "2026-09-12"
@@ -93,7 +93,7 @@
       "horario": "18:30",
       "estadio": "Estádio Cícero Pompeu de Toledo",
       "cidade": "São Paulo",
-      "status": "Segundo tempo",
+      "status": "Encerrado",
       "gols": {
         "mandante": 2,
         "visitante": 0
@@ -112,10 +112,10 @@
       "horario": "18:30",
       "estadio": "Arena Castelão",
       "cidade": "Fortaleza",
-      "status": "Segundo tempo",
+      "status": "Encerrado",
       "gols": {
         "mandante": 2,
-        "visitante": 0
+        "visitante": 1
       },
       "fonte": "ESPN"
     },
