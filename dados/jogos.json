@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-06T01:45:11.549Z",
+  "atualizadoEm": "2026-09-06T01:57:37.333Z",
   "periodo": {
     "inicio": "2026-09-05",
     "fim": "2026-09-12"
@@ -76,8 +76,8 @@
       "cidade": "Caxias do Sul",
       "status": "Encerrado",
       "gols": {
-        "mandante": 2,
-        "visitante": 2
+        "mandante": 1,
+        "visitante": 1
       },
       "fonte": "ESPN"
     },
@@ -114,8 +114,8 @@
       "cidade": "Fortaleza",
       "status": "Encerrado",
       "gols": {
-        "mandante": 2,
-        "visitante": 1
+        "mandante": 0,
+        "visitante": 0
       },
       "fonte": "ESPN"
     },
@@ -131,11 +131,8 @@
       "horario": "21:00",
       "estadio": "Estadio do Maracana",
       "cidade": "Rio de Janeiro",
-      "status": "Segundo tempo",
-      "gols": {
-        "mandante": 1,
-        "visitante": 0
-      },
+      "status": "Agendado",
+      "gols": null,
       "fonte": "ESPN"
     },
     {
