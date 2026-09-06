@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-06T22:10:10.944Z",
+  "atualizadoEm": "2026-09-06T22:26:18.558Z",
   "periodo": {
     "inicio": "2026-09-06",
     "fim": "2026-09-13"
@@ -112,7 +112,7 @@
       "horario": "18:30",
       "estadio": "Joao Havelange Stadium",
       "cidade": "Rio de Janeiro",
-      "status": "Primeiro tempo",
+      "status": "Ao vivo",
       "gols": {
         "mandante": 0,
         "visitante": 0
@@ -131,10 +131,10 @@
       "horario": "18:30",
       "estadio": "Moisés Lucarelli",
       "cidade": "Ponte Preta",
-      "status": "Primeiro tempo",
+      "status": "Ao vivo",
       "gols": {
         "mandante": 0,
-        "visitante": 0
+        "visitante": 1
       },
       "fonte": "ESPN"
     },
