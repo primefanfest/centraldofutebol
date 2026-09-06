@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-06T21:40:26.179Z",
+  "atualizadoEm": "2026-09-06T21:53:31.074Z",
   "periodo": {
     "inicio": "2026-09-06",
     "fim": "2026-09-13"
@@ -55,9 +55,9 @@
       "horario": "16:00",
       "estadio": "Estadio Mineirão",
       "cidade": "Belo Horizonte",
-      "status": "Segundo tempo",
+      "status": "Encerrado",
       "gols": {
-        "mandante": 2,
+        "mandante": 3,
         "visitante": 1
       },
       "fonte": "ESPN"
@@ -74,9 +74,9 @@
       "horario": "16:00",
       "estadio": "Estadio Beira-Rio",
       "cidade": "Porto Alegre",
-      "status": "Segundo tempo",
+      "status": "Encerrado",
       "gols": {
-        "mandante": 1,
+        "mandante": 2,
         "visitante": 3
       },
       "fonte": "ESPN"
@@ -93,7 +93,7 @@
       "horario": "16:00",
       "estadio": "Mangueirão",
       "cidade": "Belém",
-      "status": "Segundo tempo",
+      "status": "Encerrado",
       "gols": {
         "mandante": 0,
         "visitante": 1
@@ -112,8 +112,11 @@
       "horario": "18:30",
       "estadio": "Joao Havelange Stadium",
       "cidade": "Rio de Janeiro",
-      "status": "Agendado",
-      "gols": null,
+      "status": "Primeiro tempo",
+      "gols": {
+        "mandante": 0,
+        "visitante": 0
+      },
       "fonte": "ESPN"
     },
     {
@@ -128,8 +131,11 @@
       "horario": "18:30",
       "estadio": "Moisés Lucarelli",
       "cidade": "Ponte Preta",
-      "status": "Agendado",
-      "gols": null,
+      "status": "Ao vivo",
+      "gols": {
+        "mandante": 0,
+        "visitante": 0
+      },
       "fonte": "ESPN"
     },
     {
