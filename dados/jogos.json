@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-06T21:53:31.074Z",
+  "atualizadoEm": "2026-09-06T22:10:10.944Z",
   "periodo": {
     "inicio": "2026-09-06",
     "fim": "2026-09-13"
@@ -131,7 +131,7 @@
       "horario": "18:30",
       "estadio": "Moisés Lucarelli",
       "cidade": "Ponte Preta",
-      "status": "Ao vivo",
+      "status": "Primeiro tempo",
       "gols": {
         "mandante": 0,
         "visitante": 0
