@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-06T23:09:17.366Z",
+  "atualizadoEm": "2026-09-06T23:24:48.770Z",
   "periodo": {
     "inicio": "2026-09-06",
     "fim": "2026-09-13"
@@ -131,10 +131,10 @@
       "horario": "18:30",
       "estadio": "Moisés Lucarelli",
       "cidade": "Ponte Preta",
-      "status": "Segundo tempo",
+      "status": "Ao vivo",
       "gols": {
         "mandante": 0,
-        "visitante": 1
+        "visitante": 2
       },
       "fonte": "ESPN"
     },
@@ -150,10 +150,10 @@
       "horario": "19:30",
       "estadio": "Neo Química Arena",
       "cidade": "São Paulo",
-      "status": "Primeiro tempo",
+      "status": "Ao vivo",
       "gols": {
         "mandante": 1,
-        "visitante": 0
+        "visitante": 1
       },
       "fonte": "ESPN"
     },
