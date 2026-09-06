@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-06T15:43:02.481Z",
+  "atualizadoEm": "2026-09-06T15:55:11.997Z",
   "periodo": {
     "inicio": "2026-09-06",
     "fim": "2026-09-13"
@@ -20,7 +20,7 @@
       "status": "Segundo tempo",
       "gols": {
         "mandante": 1,
-        "visitante": 1
+        "visitante": 2
       },
       "fonte": "ESPN"
     },
@@ -39,7 +39,7 @@
       "status": "Segundo tempo",
       "gols": {
         "mandante": 1,
-        "visitante": 1
+        "visitante": 2
       },
       "fonte": "ESPN"
     },
