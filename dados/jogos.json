@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-06T02:32:45.700Z",
+  "atualizadoEm": "2026-09-06T02:46:41.803Z",
   "periodo": {
     "inicio": "2026-09-05",
     "fim": "2026-09-12"
@@ -131,7 +131,7 @@
       "horario": "21:00",
       "estadio": "Estadio do Maracana",
       "cidade": "Rio de Janeiro",
-      "status": "Segundo tempo",
+      "status": "Encerrado",
       "gols": {
         "mandante": 1,
         "visitante": 0
