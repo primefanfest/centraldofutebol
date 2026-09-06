@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-06T13:54:26.718Z",
+  "atualizadoEm": "2026-09-06T14:12:35.561Z",
   "periodo": {
     "inicio": "2026-09-06",
     "fim": "2026-09-13"
@@ -17,8 +17,11 @@
       "horario": "11:00",
       "estadio": "Couto Pereira",
       "cidade": "Curitiba",
-      "status": "Agendado",
-      "gols": null,
+      "status": "Primeiro tempo",
+      "gols": {
+        "mandante": 0,
+        "visitante": 0
+      },
       "fonte": "ESPN"
     },
     {
@@ -33,8 +36,11 @@
       "horario": "11:00",
       "estadio": "Estadio VGD",
       "cidade": "Londrina",
-      "status": "Agendado",
-      "gols": null,
+      "status": "Primeiro tempo",
+      "gols": {
+        "mandante": 0,
+        "visitante": 1
+      },
       "fonte": "ESPN"
     },
     {
