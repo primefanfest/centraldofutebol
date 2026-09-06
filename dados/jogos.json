@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-06T22:40:47.853Z",
+  "atualizadoEm": "2026-09-06T22:53:02.195Z",
   "periodo": {
     "inicio": "2026-09-06",
     "fim": "2026-09-13"
@@ -150,7 +150,7 @@
       "horario": "19:30",
       "estadio": "Neo Química Arena",
       "cidade": "São Paulo",
-      "status": "Ao vivo",
+      "status": "Primeiro tempo",
       "gols": {
         "mandante": 1,
         "visitante": 0
