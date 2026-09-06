@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-06T02:17:26.830Z",
+  "atualizadoEm": "2026-09-06T02:32:45.700Z",
   "periodo": {
     "inicio": "2026-09-05",
     "fim": "2026-09-12"
@@ -77,7 +77,7 @@
       "status": "Encerrado",
       "gols": {
         "mandante": 2,
-        "visitante": 1
+        "visitante": 2
       },
       "fonte": "ESPN"
     },
@@ -114,8 +114,8 @@
       "cidade": "Fortaleza",
       "status": "Encerrado",
       "gols": {
-        "mandante": 0,
-        "visitante": 0
+        "mandante": 2,
+        "visitante": 1
       },
       "fonte": "ESPN"
     },
@@ -133,7 +133,7 @@
       "cidade": "Rio de Janeiro",
       "status": "Segundo tempo",
       "gols": {
-        "mandante": 0,
+        "mandante": 1,
         "visitante": 0
       },
       "fonte": "ESPN"
