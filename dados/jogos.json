@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-06T19:53:20.398Z",
+  "atualizadoEm": "2026-09-06T20:10:52.469Z",
   "periodo": {
     "inicio": "2026-09-06",
     "fim": "2026-09-13"
@@ -55,7 +55,7 @@
       "horario": "16:00",
       "estadio": "Estadio Mineirão",
       "cidade": "Belo Horizonte",
-      "status": "Primeiro tempo",
+      "status": "Ao vivo",
       "gols": {
         "mandante": 1,
         "visitante": 1
@@ -74,7 +74,7 @@
       "horario": "16:00",
       "estadio": "Estadio Beira-Rio",
       "cidade": "Porto Alegre",
-      "status": "Primeiro tempo",
+      "status": "Segundo tempo",
       "gols": {
         "mandante": 0,
         "visitante": 3
@@ -93,7 +93,7 @@
       "horario": "16:00",
       "estadio": "Mangueirão",
       "cidade": "Belém",
-      "status": "Primeiro tempo",
+      "status": "Ao vivo",
       "gols": {
         "mandante": 0,
         "visitante": 0
