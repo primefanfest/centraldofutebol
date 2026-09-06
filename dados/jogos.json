@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-06T00:38:06.226Z",
+  "atualizadoEm": "2026-09-06T00:56:26.731Z",
   "periodo": {
     "inicio": "2026-09-05",
     "fim": "2026-09-12"
@@ -76,8 +76,8 @@
       "cidade": "Caxias do Sul",
       "status": "Encerrado",
       "gols": {
-        "mandante": 0,
-        "visitante": 1
+        "mandante": 2,
+        "visitante": 2
       },
       "fonte": "ESPN"
     },
@@ -93,9 +93,9 @@
       "horario": "18:30",
       "estadio": "Estádio Cícero Pompeu de Toledo",
       "cidade": "São Paulo",
-      "status": "Primeiro tempo",
+      "status": "Encerrado",
       "gols": {
-        "mandante": 0,
+        "mandante": 2,
         "visitante": 0
       },
       "fonte": "ESPN"
@@ -112,10 +112,10 @@
       "horario": "18:30",
       "estadio": "Arena Castelão",
       "cidade": "Fortaleza",
-      "status": "Primeiro tempo",
+      "status": "Encerrado",
       "gols": {
-        "mandante": 0,
-        "visitante": 0
+        "mandante": 2,
+        "visitante": 1
       },
       "fonte": "ESPN"
     },
@@ -131,8 +131,11 @@
       "horario": "21:00",
       "estadio": "Estadio do Maracana",
       "cidade": "Rio de Janeiro",
-      "status": "Agendado",
-      "gols": null,
+      "status": "Ao vivo",
+      "gols": {
+        "mandante": 0,
+        "visitante": 0
+      },
       "fonte": "ESPN"
     },
     {
