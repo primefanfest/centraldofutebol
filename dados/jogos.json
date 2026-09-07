@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-07T23:07:41.779Z",
+  "atualizadoEm": "2026-09-07T23:24:13.209Z",
   "periodo": {
     "inicio": "2026-09-07",
     "fim": "2026-09-14"
@@ -17,8 +17,11 @@
       "horario": "20:00",
       "estadio": "Estadio Manoel Barradas",
       "cidade": "Salvador",
-      "status": "Agendado",
-      "gols": null,
+      "status": "Primeiro tempo",
+      "gols": {
+        "mandante": 0,
+        "visitante": 0
+      },
       "fonte": "ESPN"
     },
     {
