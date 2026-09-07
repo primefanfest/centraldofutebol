@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-07T14:14:21.956Z",
+  "atualizadoEm": "2026-09-07T14:32:43.473Z",
   "periodo": {
     "inicio": "2026-09-07",
     "fim": "2026-09-14"
@@ -71,14 +71,14 @@
     },
     {
       "id": "401860328",
-      "data": "2026-09-09T00:30Z",
+      "data": "2026-09-09T00:00Z",
       "campeonato": "Brasileirão — Série B",
       "logoCampeonato": "https://a.espncdn.com/i/leaguelogos/soccer/500/2299.png",
       "mandante": "Criciúma",
       "visitante": "Juventude",
       "escudoMandante": "https://a.espncdn.com/i/teamlogos/soccer/500/9971.png",
       "escudoVisitante": "https://a.espncdn.com/i/teamlogos/soccer/500/6270.png",
-      "horario": "21:30",
+      "horario": "21:00",
       "estadio": "Heriberto Hülse",
       "cidade": "Criciúma",
       "status": "Agendado",
