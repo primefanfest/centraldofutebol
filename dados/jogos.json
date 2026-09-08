@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-08T01:33:23.032Z",
+  "atualizadoEm": "2026-09-08T01:49:29.528Z",
   "periodo": {
     "inicio": "2026-09-07",
     "fim": "2026-09-14"
@@ -17,7 +17,7 @@
       "horario": "20:00",
       "estadio": "Estadio Manoel Barradas",
       "cidade": "Salvador",
-      "status": "Segundo tempo",
+      "status": "Encerrado",
       "gols": {
         "mandante": 1,
         "visitante": 0
