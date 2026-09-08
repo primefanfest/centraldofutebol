@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-08T20:32:47.340Z",
+  "atualizadoEm": "2026-09-08T20:47:50.438Z",
   "periodo": {
     "inicio": "2026-09-08",
     "fim": "2026-09-15"
@@ -662,5 +662,7 @@
       "fonte": "ESPN"
     }
   ],
-  "avisos": []
+  "avisos": [
+    "fetch failed"
+  ]
 }
