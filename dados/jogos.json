@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-08T22:59:02.991Z",
+  "atualizadoEm": "2026-09-08T23:17:56.563Z",
   "periodo": {
     "inicio": "2026-09-08",
     "fim": "2026-09-15"
@@ -17,7 +17,7 @@
       "horario": "19:00",
       "estadio": "Estadio do Maracana",
       "cidade": "Rio de Janeiro",
-      "status": "Ao vivo",
+      "status": "Segundo tempo",
       "gols": {
         "mandante": 2,
         "visitante": 0
@@ -36,7 +36,7 @@
       "horario": "19:00",
       "estadio": "Estadio Nemesio Camacho El Campín",
       "cidade": "Bogotá",
-      "status": "Ao vivo",
+      "status": "Segundo tempo",
       "gols": {
         "mandante": 0,
         "visitante": 0
