@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-09T22:18:15.454Z",
+  "atualizadoEm": "2026-09-09T22:33:07.621Z",
   "periodo": {
     "inicio": "2026-09-09",
     "fim": "2026-09-16"
@@ -17,8 +17,11 @@
       "horario": "19:00",
       "estadio": "Allianz Parque",
       "cidade": "São Paulo",
-      "status": "Agendado",
-      "gols": null,
+      "status": "Primeiro tempo",
+      "gols": {
+        "mandante": 0,
+        "visitante": 0
+      },
       "fonte": "ESPN"
     },
     {
@@ -33,8 +36,11 @@
       "horario": "19:00",
       "estadio": "Estádio Vila Belmiro (Urbano Caldeira)",
       "cidade": "Santos",
-      "status": "Agendado",
-      "gols": null,
+      "status": "Primeiro tempo",
+      "gols": {
+        "mandante": 0,
+        "visitante": 0
+      },
       "fonte": "ESPN"
     },
     {
