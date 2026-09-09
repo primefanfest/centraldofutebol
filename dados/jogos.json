@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-09T02:35:07.284Z",
+  "atualizadoEm": "2026-09-09T02:50:38.700Z",
   "periodo": {
     "inicio": "2026-09-08",
     "fim": "2026-09-15"
@@ -93,7 +93,7 @@
       "horario": "21:30",
       "estadio": "Alberto José Armando (La Bombonera)",
       "cidade": "Buenos Aires",
-      "status": "Segundo tempo",
+      "status": "Encerrado",
       "gols": {
         "mandante": 1,
         "visitante": 0
