@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-09T01:57:23.324Z",
+  "atualizadoEm": "2026-09-09T02:18:28.959Z",
   "periodo": {
     "inicio": "2026-09-08",
     "fim": "2026-09-15"
@@ -55,9 +55,9 @@
       "horario": "20:30",
       "estadio": "Arena Pantanal",
       "cidade": "Cuiabá",
-      "status": "Encerrado",
+      "status": "Ao vivo",
       "gols": {
-        "mandante": 3,
+        "mandante": 1,
         "visitante": 0
       },
       "fonte": "ESPN"
@@ -74,10 +74,10 @@
       "horario": "21:00",
       "estadio": "Heriberto Hülse",
       "cidade": "Criciúma",
-      "status": "Segundo tempo",
+      "status": "Primeiro tempo",
       "gols": {
         "mandante": 0,
-        "visitante": 2
+        "visitante": 0
       },
       "fonte": "ESPN"
     },
@@ -93,11 +93,8 @@
       "horario": "21:30",
       "estadio": "Alberto José Armando (La Bombonera)",
       "cidade": "Buenos Aires",
-      "status": "Segundo tempo",
-      "gols": {
-        "mandante": 1,
-        "visitante": 0
-      },
+      "status": "Agendado",
+      "gols": null,
       "fonte": "ESPN"
     },
     {
