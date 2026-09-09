@@ -1,105 +1,10 @@
 {
-  "atualizadoEm": "2026-09-09T02:50:38.700Z",
+  "atualizadoEm": "2026-09-09T03:05:26.329Z",
   "periodo": {
-    "inicio": "2026-09-08",
-    "fim": "2026-09-15"
+    "inicio": "2026-09-09",
+    "fim": "2026-09-16"
   },
   "jogos": [
-    {
-      "id": "401912518",
-      "data": "2026-09-08T22:00Z",
-      "campeonato": "Libertadores",
-      "logoCampeonato": "https://a.espncdn.com/i/leaguelogos/soccer/500/58.png",
-      "mandante": "Fluminense",
-      "visitante": "Platense",
-      "escudoMandante": "https://a.espncdn.com/i/teamlogos/soccer/500/3445.png",
-      "escudoVisitante": "https://a.espncdn.com/i/teamlogos/soccer/500/7764.png",
-      "horario": "19:00",
-      "estadio": "Estadio do Maracana",
-      "cidade": "Rio de Janeiro",
-      "status": "Encerrado",
-      "gols": {
-        "mandante": 2,
-        "visitante": 0
-      },
-      "fonte": "ESPN"
-    },
-    {
-      "id": "401913960",
-      "data": "2026-09-08T22:00Z",
-      "campeonato": "Sul-Americana",
-      "logoCampeonato": "https://a.espncdn.com/i/leaguelogos/soccer/500/1208.png",
-      "mandante": "Independiente Santa Fe",
-      "visitante": "Vasco",
-      "escudoMandante": "https://a.espncdn.com/i/teamlogos/soccer/500/5488.png",
-      "escudoVisitante": "https://a.espncdn.com/i/teamlogos/soccer/500/3454.png",
-      "horario": "19:00",
-      "estadio": "Estadio Nemesio Camacho El Campín",
-      "cidade": "Bogotá",
-      "status": "Encerrado",
-      "gols": {
-        "mandante": 0,
-        "visitante": 0
-      },
-      "fonte": "ESPN"
-    },
-    {
-      "id": "401860327",
-      "data": "2026-09-08T23:30Z",
-      "campeonato": "Brasileirão — Série B",
-      "logoCampeonato": "https://a.espncdn.com/i/leaguelogos/soccer/500/2299.png",
-      "mandante": "Cuiabá",
-      "visitante": "Athletic",
-      "escudoMandante": "https://a.espncdn.com/i/teamlogos/soccer/500/17313.png",
-      "escudoVisitante": "https://a.espncdn.com/i/teamlogos/soccer/500/20851.png",
-      "horario": "20:30",
-      "estadio": "Arena Pantanal",
-      "cidade": "Cuiabá",
-      "status": "Encerrado",
-      "gols": {
-        "mandante": 3,
-        "visitante": 0
-      },
-      "fonte": "ESPN"
-    },
-    {
-      "id": "401860328",
-      "data": "2026-09-09T00:00Z",
-      "campeonato": "Brasileirão — Série B",
-      "logoCampeonato": "https://a.espncdn.com/i/leaguelogos/soccer/500/2299.png",
-      "mandante": "Criciúma",
-      "visitante": "Juventude",
-      "escudoMandante": "https://a.espncdn.com/i/teamlogos/soccer/500/9971.png",
-      "escudoVisitante": "https://a.espncdn.com/i/teamlogos/soccer/500/6270.png",
-      "horario": "21:00",
-      "estadio": "Heriberto Hülse",
-      "cidade": "Criciúma",
-      "status": "Encerrado",
-      "gols": {
-        "mandante": 0,
-        "visitante": 2
-      },
-      "fonte": "ESPN"
-    },
-    {
-      "id": "401912542",
-      "data": "2026-09-09T00:30Z",
-      "campeonato": "Sul-Americana",
-      "logoCampeonato": "https://a.espncdn.com/i/leaguelogos/soccer/500/1208.png",
-      "mandante": "Boca Juniors",
-      "visitante": "São Paulo",
-      "escudoMandante": "https://a.espncdn.com/i/teamlogos/soccer/500/5.png",
-      "escudoVisitante": "https://a.espncdn.com/i/teamlogos/soccer/500/2026.png",
-      "horario": "21:30",
-      "estadio": "Alberto José Armando (La Bombonera)",
-      "cidade": "Buenos Aires",
-      "status": "Encerrado",
-      "gols": {
-        "mandante": 1,
-        "visitante": 0
-      },
-      "fonte": "ESPN"
-    },
     {
       "id": "401912527",
       "data": "2026-09-09T22:00Z",
@@ -671,6 +576,70 @@
       "escudoVisitante": "https://a.espncdn.com/i/teamlogos/soccer/500/5.png",
       "horario": "21:30",
       "estadio": "Estádio Cícero Pompeu de Toledo",
+      "cidade": "São Paulo",
+      "status": "Agendado",
+      "gols": null,
+      "fonte": "ESPN"
+    },
+    {
+      "id": "401912525",
+      "data": "2026-09-16T22:00Z",
+      "campeonato": "Libertadores",
+      "logoCampeonato": "https://a.espncdn.com/i/leaguelogos/soccer/500/58.png",
+      "mandante": "Liga de Quito",
+      "visitante": "Palmeiras",
+      "escudoMandante": "https://a.espncdn.com/i/teamlogos/soccer/500/4816.png",
+      "escudoVisitante": "https://a.espncdn.com/i/teamlogos/soccer/500/2029.png",
+      "horario": "19:00",
+      "estadio": "Rodrigo Paz Delgado",
+      "cidade": "Quito",
+      "status": "Agendado",
+      "gols": null,
+      "fonte": "ESPN"
+    },
+    {
+      "id": "401913071",
+      "data": "2026-09-16T22:00Z",
+      "campeonato": "Sul-Americana",
+      "logoCampeonato": "https://a.espncdn.com/i/leaguelogos/soccer/500/1208.png",
+      "mandante": "Atlético Mineiro",
+      "visitante": "Santos",
+      "escudoMandante": "https://a.espncdn.com/i/teamlogos/soccer/500/7632.png",
+      "escudoVisitante": "https://a.espncdn.com/i/teamlogos/soccer/500/2674.png",
+      "horario": "19:00",
+      "estadio": "Arena MRV",
+      "cidade": "Belo Horizonte",
+      "status": "Agendado",
+      "gols": null,
+      "fonte": "ESPN"
+    },
+    {
+      "id": "401841176",
+      "data": "2026-09-16T22:30Z",
+      "campeonato": "Brasileirão — Série A",
+      "logoCampeonato": "https://a.espncdn.com/i/leaguelogos/soccer/500/85.png",
+      "mandante": "Botafogo",
+      "visitante": "Grêmio",
+      "escudoMandante": "https://a.espncdn.com/i/teamlogos/soccer/500/6086.png",
+      "escudoVisitante": "https://a.espncdn.com/i/teamlogos/soccer/500/6273.png",
+      "horario": "19:30",
+      "estadio": "Joao Havelange Stadium",
+      "cidade": "Rio de Janeiro",
+      "status": "Agendado",
+      "gols": null,
+      "fonte": "ESPN"
+    },
+    {
+      "id": "401912540",
+      "data": "2026-09-17T00:30Z",
+      "campeonato": "Libertadores",
+      "logoCampeonato": "https://a.espncdn.com/i/leaguelogos/soccer/500/58.png",
+      "mandante": "Corinthians",
+      "visitante": "Estudiantes de La Plata",
+      "escudoMandante": "https://a.espncdn.com/i/teamlogos/soccer/500/874.png",
+      "escudoVisitante": "https://a.espncdn.com/i/teamlogos/soccer/500/8.png",
+      "horario": "21:30",
+      "estadio": "Neo Química Arena",
       "cidade": "São Paulo",
       "status": "Agendado",
       "gols": null,
