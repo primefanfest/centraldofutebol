@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-09T00:29:19.957Z",
+  "atualizadoEm": "2026-09-09T00:50:48.222Z",
   "periodo": {
     "inicio": "2026-09-08",
     "fim": "2026-09-15"
@@ -17,9 +17,9 @@
       "horario": "19:00",
       "estadio": "Estadio do Maracana",
       "cidade": "Rio de Janeiro",
-      "status": "Primeiro tempo",
+      "status": "Encerrado",
       "gols": {
-        "mandante": 0,
+        "mandante": 2,
         "visitante": 0
       },
       "fonte": "ESPN"
@@ -36,8 +36,11 @@
       "horario": "19:00",
       "estadio": "Estadio Nemesio Camacho El Campín",
       "cidade": "Bogotá",
-      "status": "Agendado",
-      "gols": null,
+      "status": "Encerrado",
+      "gols": {
+        "mandante": 0,
+        "visitante": 0
+      },
       "fonte": "ESPN"
     },
     {
@@ -52,8 +55,11 @@
       "horario": "20:30",
       "estadio": "Arena Pantanal",
       "cidade": "Cuiabá",
-      "status": "Agendado",
-      "gols": null,
+      "status": "Segundo tempo",
+      "gols": {
+        "mandante": 1,
+        "visitante": 0
+      },
       "fonte": "ESPN"
     },
     {
@@ -68,8 +74,11 @@
       "horario": "21:00",
       "estadio": "Heriberto Hülse",
       "cidade": "Criciúma",
-      "status": "Agendado",
-      "gols": null,
+      "status": "Primeiro tempo",
+      "gols": {
+        "mandante": 0,
+        "visitante": 0
+      },
       "fonte": "ESPN"
     },
     {
@@ -84,8 +93,11 @@
       "horario": "21:30",
       "estadio": "Alberto José Armando (La Bombonera)",
       "cidade": "Buenos Aires",
-      "status": "Agendado",
-      "gols": null,
+      "status": "Ao vivo",
+      "gols": {
+        "mandante": 0,
+        "visitante": 0
+      },
       "fonte": "ESPN"
     },
     {
