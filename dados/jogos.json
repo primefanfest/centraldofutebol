@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-09T22:33:07.621Z",
+  "atualizadoEm": "2026-09-09T22:46:34.059Z",
   "periodo": {
     "inicio": "2026-09-09",
     "fim": "2026-09-16"
@@ -19,7 +19,7 @@
       "cidade": "São Paulo",
       "status": "Primeiro tempo",
       "gols": {
-        "mandante": 0,
+        "mandante": 1,
         "visitante": 0
       },
       "fonte": "ESPN"
@@ -55,8 +55,11 @@
       "horario": "19:30",
       "estadio": "Estádio Santa Cruz",
       "cidade": "Ribeirão Preto",
-      "status": "Agendado",
-      "gols": null,
+      "status": "Primeiro tempo",
+      "gols": {
+        "mandante": 0,
+        "visitante": 0
+      },
       "fonte": "ESPN"
     },
     {
@@ -71,8 +74,11 @@
       "horario": "19:30",
       "estadio": "Arena Castelão",
       "cidade": "Fortaleza",
-      "status": "Agendado",
-      "gols": null,
+      "status": "Primeiro tempo",
+      "gols": {
+        "mandante": 0,
+        "visitante": 0
+      },
       "fonte": "ESPN"
     },
     {
