@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-09T23:44:58.882Z",
+  "atualizadoEm": "2026-09-09T23:57:29.995Z",
   "periodo": {
     "inicio": "2026-09-09",
     "fim": "2026-09-16"
@@ -55,7 +55,7 @@
       "horario": "19:30",
       "estadio": "Estádio Santa Cruz",
       "cidade": "Ribeirão Preto",
-      "status": "Ao vivo",
+      "status": "Segundo tempo",
       "gols": {
         "mandante": 1,
         "visitante": 1
@@ -74,7 +74,7 @@
       "horario": "19:30",
       "estadio": "Arena Castelão",
       "cidade": "Fortaleza",
-      "status": "Ao vivo",
+      "status": "Segundo tempo",
       "gols": {
         "mandante": 0,
         "visitante": 0
@@ -93,7 +93,7 @@
       "horario": "20:30",
       "estadio": "Estádio Raimundo Sampaio (Independência)",
       "cidade": "Belo Horizonte",
-      "status": "Primeiro tempo",
+      "status": "Ao vivo",
       "gols": {
         "mandante": 0,
         "visitante": 0
@@ -112,8 +112,11 @@
       "horario": "20:30",
       "estadio": "Germano Krüger",
       "cidade": "Ponta Grossa",
-      "status": "Agendado",
-      "gols": null,
+      "status": "Primeiro tempo",
+      "gols": {
+        "mandante": 0,
+        "visitante": 0
+      },
       "fonte": "ESPN"
     },
     {
