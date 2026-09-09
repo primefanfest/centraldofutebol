@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-08T23:57:24.839Z",
+  "atualizadoEm": "2026-09-09T00:29:19.957Z",
   "periodo": {
     "inicio": "2026-09-08",
     "fim": "2026-09-15"
@@ -17,9 +17,9 @@
       "horario": "19:00",
       "estadio": "Estadio do Maracana",
       "cidade": "Rio de Janeiro",
-      "status": "Encerrado",
+      "status": "Primeiro tempo",
       "gols": {
-        "mandante": 2,
+        "mandante": 0,
         "visitante": 0
       },
       "fonte": "ESPN"
@@ -36,11 +36,8 @@
       "horario": "19:00",
       "estadio": "Estadio Nemesio Camacho El Campín",
       "cidade": "Bogotá",
-      "status": "Encerrado",
-      "gols": {
-        "mandante": 0,
-        "visitante": 0
-      },
+      "status": "Agendado",
+      "gols": null,
       "fonte": "ESPN"
     },
     {
@@ -55,11 +52,8 @@
       "horario": "20:30",
       "estadio": "Arena Pantanal",
       "cidade": "Cuiabá",
-      "status": "Primeiro tempo",
-      "gols": {
-        "mandante": 0,
-        "visitante": 0
-      },
+      "status": "Agendado",
+      "gols": null,
       "fonte": "ESPN"
     },
     {
