@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-09T23:57:29.995Z",
+  "atualizadoEm": "2026-09-10T00:24:24.130Z",
   "periodo": {
     "inicio": "2026-09-09",
     "fim": "2026-09-16"
@@ -17,7 +17,7 @@
       "horario": "19:00",
       "estadio": "Allianz Parque",
       "cidade": "São Paulo",
-      "status": "Segundo tempo",
+      "status": "Encerrado",
       "gols": {
         "mandante": 1,
         "visitante": 0
@@ -36,7 +36,7 @@
       "horario": "19:00",
       "estadio": "Estádio Vila Belmiro (Urbano Caldeira)",
       "cidade": "Santos",
-      "status": "Segundo tempo",
+      "status": "Encerrado",
       "gols": {
         "mandante": 2,
         "visitante": 0
@@ -58,7 +58,7 @@
       "status": "Segundo tempo",
       "gols": {
         "mandante": 1,
-        "visitante": 1
+        "visitante": 2
       },
       "fonte": "ESPN"
     },
@@ -76,7 +76,7 @@
       "cidade": "Fortaleza",
       "status": "Segundo tempo",
       "gols": {
-        "mandante": 0,
+        "mandante": 1,
         "visitante": 0
       },
       "fonte": "ESPN"
@@ -93,9 +93,9 @@
       "horario": "20:30",
       "estadio": "Estádio Raimundo Sampaio (Independência)",
       "cidade": "Belo Horizonte",
-      "status": "Ao vivo",
+      "status": "Primeiro tempo",
       "gols": {
-        "mandante": 0,
+        "mandante": 2,
         "visitante": 0
       },
       "fonte": "ESPN"
