@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-10T23:14:58.913Z",
+  "atualizadoEm": "2026-09-10T23:29:24.039Z",
   "periodo": {
     "inicio": "2026-09-10",
     "fim": "2026-09-17"
@@ -17,23 +17,20 @@
       "horario": "19:30",
       "estadio": "Estádio Onésio Brasileiro Alvarenga",
       "cidade": "Goiãnia",
-      "status": "Ao vivo",
-      "gols": {
-        "mandante": 0,
-        "visitante": 0
-      },
+      "status": "Agendado",
+      "gols": null,
       "fonte": "ESPN"
     },
     {
       "id": "401860323",
-      "data": "2026-09-11T00:00Z",
+      "data": "2026-09-10T22:30Z",
       "campeonato": "Brasileirão — Série B",
       "logoCampeonato": "https://a.espncdn.com/i/leaguelogos/soccer/500/2299.png",
       "mandante": "São Bernardo",
       "visitante": "Londrina",
       "escudoMandante": "https://a.espncdn.com/i/teamlogos/soccer/500/11268.png",
       "escudoVisitante": "https://a.espncdn.com/i/teamlogos/soccer/500/17333.png",
-      "horario": "21:00",
+      "horario": "19:30",
       "estadio": "Estádio Primeiro de Maio",
       "cidade": "São Bernardo do Campo ",
       "status": "Agendado",
