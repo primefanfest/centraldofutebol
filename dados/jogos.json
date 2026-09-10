@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-10T01:50:20.133Z",
+  "atualizadoEm": "2026-09-10T02:05:03.467Z",
   "periodo": {
     "inicio": "2026-09-09",
     "fim": "2026-09-16"
@@ -131,7 +131,7 @@
       "horario": "21:30",
       "estadio": "Estádio Antônio Accioly",
       "cidade": "Goiãnia",
-      "status": "Ao vivo",
+      "status": "Segundo tempo",
       "gols": {
         "mandante": 2,
         "visitante": 1
@@ -150,10 +150,10 @@
       "horario": "21:30",
       "estadio": "Estadio Jorge Luis Hirschi",
       "cidade": "La Plata",
-      "status": "Ao vivo",
+      "status": "Segundo tempo",
       "gols": {
         "mandante": 1,
-        "visitante": 0
+        "visitante": 1
       },
       "fonte": "ESPN"
     },
