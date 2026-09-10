@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-10T00:24:24.130Z",
+  "atualizadoEm": "2026-09-10T00:45:48.881Z",
   "periodo": {
     "inicio": "2026-09-09",
     "fim": "2026-09-16"
@@ -17,11 +17,8 @@
       "horario": "19:00",
       "estadio": "Allianz Parque",
       "cidade": "São Paulo",
-      "status": "Encerrado",
-      "gols": {
-        "mandante": 1,
-        "visitante": 0
-      },
+      "status": "Agendado",
+      "gols": null,
       "fonte": "ESPN"
     },
     {
@@ -36,11 +33,8 @@
       "horario": "19:00",
       "estadio": "Estádio Vila Belmiro (Urbano Caldeira)",
       "cidade": "Santos",
-      "status": "Encerrado",
-      "gols": {
-        "mandante": 2,
-        "visitante": 0
-      },
+      "status": "Agendado",
+      "gols": null,
       "fonte": "ESPN"
     },
     {
@@ -55,11 +49,8 @@
       "horario": "19:30",
       "estadio": "Estádio Santa Cruz",
       "cidade": "Ribeirão Preto",
-      "status": "Segundo tempo",
-      "gols": {
-        "mandante": 1,
-        "visitante": 2
-      },
+      "status": "Agendado",
+      "gols": null,
       "fonte": "ESPN"
     },
     {
@@ -74,11 +65,8 @@
       "horario": "19:30",
       "estadio": "Arena Castelão",
       "cidade": "Fortaleza",
-      "status": "Segundo tempo",
-      "gols": {
-        "mandante": 1,
-        "visitante": 0
-      },
+      "status": "Agendado",
+      "gols": null,
       "fonte": "ESPN"
     },
     {
@@ -93,11 +81,8 @@
       "horario": "20:30",
       "estadio": "Estádio Raimundo Sampaio (Independência)",
       "cidade": "Belo Horizonte",
-      "status": "Primeiro tempo",
-      "gols": {
-        "mandante": 2,
-        "visitante": 0
-      },
+      "status": "Agendado",
+      "gols": null,
       "fonte": "ESPN"
     },
     {
@@ -112,11 +97,8 @@
       "horario": "20:30",
       "estadio": "Germano Krüger",
       "cidade": "Ponta Grossa",
-      "status": "Primeiro tempo",
-      "gols": {
-        "mandante": 0,
-        "visitante": 0
-      },
+      "status": "Agendado",
+      "gols": null,
       "fonte": "ESPN"
     },
     {
