@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-11T02:37:59.539Z",
+  "atualizadoEm": "2026-09-11T02:52:44.714Z",
   "periodo": {
     "inicio": "2026-09-10",
     "fim": "2026-09-17"
@@ -36,10 +36,10 @@
       "horario": "21:00",
       "estadio": "Estádio Primeiro de Maio",
       "cidade": "São Bernardo do Campo ",
-      "status": "Encerrado",
+      "status": "Segundo tempo",
       "gols": {
         "mandante": 1,
-        "visitante": 2
+        "visitante": 1
       },
       "fonte": "ESPN"
     },
@@ -55,9 +55,9 @@
       "horario": "21:30",
       "estadio": "Ilha do Retiro",
       "cidade": "Recife",
-      "status": "Segundo tempo",
+      "status": "Primeiro tempo",
       "gols": {
-        "mandante": 2,
+        "mandante": 0,
         "visitante": 0
       },
       "fonte": "ESPN"
@@ -74,10 +74,10 @@
       "horario": "21:30",
       "estadio": "Estadio Olímpico Atahualpa",
       "cidade": "Quito",
-      "status": "Segundo tempo",
+      "status": "Primeiro tempo",
       "gols": {
         "mandante": 0,
-        "visitante": 2
+        "visitante": 0
       },
       "fonte": "ESPN"
     },
@@ -93,9 +93,9 @@
       "horario": "21:30",
       "estadio": "Estadio Inca Garcilaso de la Vega",
       "cidade": "Cusco",
-      "status": "Segundo tempo",
+      "status": "Primeiro tempo",
       "gols": {
-        "mandante": 2,
+        "mandante": 0,
         "visitante": 0
       },
       "fonte": "ESPN"
