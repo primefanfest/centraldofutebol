@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-11T01:15:33.842Z",
+  "atualizadoEm": "2026-09-11T01:31:41.757Z",
   "periodo": {
     "inicio": "2026-09-10",
     "fim": "2026-09-17"
@@ -74,8 +74,11 @@
       "horario": "21:30",
       "estadio": "Estadio Olímpico Atahualpa",
       "cidade": "Quito",
-      "status": "Agendado",
-      "gols": null,
+      "status": "Primeiro tempo",
+      "gols": {
+        "mandante": 0,
+        "visitante": 0
+      },
       "fonte": "ESPN"
     },
     {
