@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-11T00:41:36.049Z",
+  "atualizadoEm": "2026-09-11T00:56:26.322Z",
   "periodo": {
     "inicio": "2026-09-10",
     "fim": "2026-09-17"
@@ -17,9 +17,9 @@
       "horario": "19:30",
       "estadio": "Estádio Onésio Brasileiro Alvarenga",
       "cidade": "Goiãnia",
-      "status": "Segundo tempo",
+      "status": "Ao vivo",
       "gols": {
-        "mandante": 2,
+        "mandante": 0,
         "visitante": 0
       },
       "fonte": "ESPN"
@@ -36,11 +36,8 @@
       "horario": "21:00",
       "estadio": "Estádio Primeiro de Maio",
       "cidade": "São Bernardo do Campo ",
-      "status": "Primeiro tempo",
-      "gols": {
-        "mandante": 0,
-        "visitante": 1
-      },
+      "status": "Agendado",
+      "gols": null,
       "fonte": "ESPN"
     },
     {
