@@ -1,105 +1,10 @@
 {
-  "atualizadoEm": "2026-09-11T02:52:44.714Z",
+  "atualizadoEm": "2026-09-11T03:10:07.135Z",
   "periodo": {
-    "inicio": "2026-09-10",
-    "fim": "2026-09-17"
+    "inicio": "2026-09-11",
+    "fim": "2026-09-18"
   },
   "jogos": [
-    {
-      "id": "401860326",
-      "data": "2026-09-10T22:30Z",
-      "campeonato": "Brasileirão — Série B",
-      "logoCampeonato": "https://a.espncdn.com/i/leaguelogos/soccer/500/2299.png",
-      "mandante": "Vila Nova",
-      "visitante": "Goiás",
-      "escudoMandante": "https://a.espncdn.com/i/teamlogos/soccer/500/9973.png",
-      "escudoVisitante": "https://a.espncdn.com/i/teamlogos/soccer/500/3395.png",
-      "horario": "19:30",
-      "estadio": "Estádio Onésio Brasileiro Alvarenga",
-      "cidade": "Goiãnia",
-      "status": "Encerrado",
-      "gols": {
-        "mandante": 2,
-        "visitante": 0
-      },
-      "fonte": "ESPN"
-    },
-    {
-      "id": "401860323",
-      "data": "2026-09-11T00:00Z",
-      "campeonato": "Brasileirão — Série B",
-      "logoCampeonato": "https://a.espncdn.com/i/leaguelogos/soccer/500/2299.png",
-      "mandante": "São Bernardo",
-      "visitante": "Londrina",
-      "escudoMandante": "https://a.espncdn.com/i/teamlogos/soccer/500/11268.png",
-      "escudoVisitante": "https://a.espncdn.com/i/teamlogos/soccer/500/17333.png",
-      "horario": "21:00",
-      "estadio": "Estádio Primeiro de Maio",
-      "cidade": "São Bernardo do Campo ",
-      "status": "Segundo tempo",
-      "gols": {
-        "mandante": 1,
-        "visitante": 1
-      },
-      "fonte": "ESPN"
-    },
-    {
-      "id": "401860324",
-      "data": "2026-09-11T00:30Z",
-      "campeonato": "Brasileirão — Série B",
-      "logoCampeonato": "https://a.espncdn.com/i/leaguelogos/soccer/500/2299.png",
-      "mandante": "Sport",
-      "visitante": "Ponte Preta",
-      "escudoMandante": "https://a.espncdn.com/i/teamlogos/soccer/500/7635.png",
-      "escudoVisitante": "https://a.espncdn.com/i/teamlogos/soccer/500/3459.png",
-      "horario": "21:30",
-      "estadio": "Ilha do Retiro",
-      "cidade": "Recife",
-      "status": "Primeiro tempo",
-      "gols": {
-        "mandante": 0,
-        "visitante": 0
-      },
-      "fonte": "ESPN"
-    },
-    {
-      "id": "401912543",
-      "data": "2026-09-11T00:30Z",
-      "campeonato": "Libertadores",
-      "logoCampeonato": "https://a.espncdn.com/i/leaguelogos/soccer/500/58.png",
-      "mandante": "Independiente del Valle",
-      "visitante": "Flamengo",
-      "escudoMandante": "https://a.espncdn.com/i/teamlogos/soccer/500/17086.png",
-      "escudoVisitante": "https://a.espncdn.com/i/teamlogos/soccer/500/819.png",
-      "horario": "21:30",
-      "estadio": "Estadio Olímpico Atahualpa",
-      "cidade": "Quito",
-      "status": "Primeiro tempo",
-      "gols": {
-        "mandante": 0,
-        "visitante": 0
-      },
-      "fonte": "ESPN"
-    },
-    {
-      "id": "401913074",
-      "data": "2026-09-11T00:30Z",
-      "campeonato": "Sul-Americana",
-      "logoCampeonato": "https://a.espncdn.com/i/leaguelogos/soccer/500/1208.png",
-      "mandante": "Cienciano del Cusco",
-      "visitante": "Montevideo City Torque",
-      "escudoMandante": "https://a.espncdn.com/i/teamlogos/soccer/500/3372.png",
-      "escudoVisitante": "https://a.espncdn.com/i/teamlogos/soccer/500/19002.png",
-      "horario": "21:30",
-      "estadio": "Estadio Inca Garcilaso de la Vega",
-      "cidade": "Cusco",
-      "status": "Primeiro tempo",
-      "gols": {
-        "mandante": 0,
-        "visitante": 0
-      },
-      "fonte": "ESPN"
-    },
     {
       "id": "401841232",
       "data": "2026-09-12T00:00Z",
@@ -560,6 +465,54 @@
       "horario": "21:30",
       "estadio": "Estadio Centenario",
       "cidade": "Montevideo",
+      "status": "Agendado",
+      "gols": null,
+      "fonte": "ESPN"
+    },
+    {
+      "id": "401860344",
+      "data": "2026-09-18T22:30Z",
+      "campeonato": "Brasileirão — Série B",
+      "logoCampeonato": "https://a.espncdn.com/i/leaguelogos/soccer/500/2299.png",
+      "mandante": "Vila Nova",
+      "visitante": "América Mineiro",
+      "escudoMandante": "https://a.espncdn.com/i/teamlogos/soccer/500/9973.png",
+      "escudoVisitante": "https://a.espncdn.com/i/teamlogos/soccer/500/6154.png",
+      "horario": "19:30",
+      "estadio": "Estádio Onésio Brasileiro Alvarenga",
+      "cidade": "Goiãnia",
+      "status": "Agendado",
+      "gols": null,
+      "fonte": "ESPN"
+    },
+    {
+      "id": "401860343",
+      "data": "2026-09-18T23:30Z",
+      "campeonato": "Brasileirão — Série B",
+      "logoCampeonato": "https://a.espncdn.com/i/leaguelogos/soccer/500/2299.png",
+      "mandante": "Ceará",
+      "visitante": "Novorizontino",
+      "escudoMandante": "https://a.espncdn.com/i/teamlogos/soccer/500/9969.png",
+      "escudoVisitante": "https://a.espncdn.com/i/teamlogos/soccer/500/18127.png",
+      "horario": "20:30",
+      "estadio": "Arena Castelão",
+      "cidade": "Fortaleza",
+      "status": "Agendado",
+      "gols": null,
+      "fonte": "ESPN"
+    },
+    {
+      "id": "401860345",
+      "data": "2026-09-19T00:00Z",
+      "campeonato": "Brasileirão — Série B",
+      "logoCampeonato": "https://a.espncdn.com/i/leaguelogos/soccer/500/2299.png",
+      "mandante": "São Bernardo",
+      "visitante": "Atlético Goianiense",
+      "escudoMandante": "https://a.espncdn.com/i/teamlogos/soccer/500/11268.png",
+      "escudoVisitante": "https://a.espncdn.com/i/teamlogos/soccer/500/10357.png",
+      "horario": "21:00",
+      "estadio": "Estádio Primeiro de Maio",
+      "cidade": "São Bernardo do Campo ",
       "status": "Agendado",
       "gols": null,
       "fonte": "ESPN"
