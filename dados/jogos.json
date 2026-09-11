@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-11T00:56:26.322Z",
+  "atualizadoEm": "2026-09-11T01:15:33.842Z",
   "periodo": {
     "inicio": "2026-09-10",
     "fim": "2026-09-17"
@@ -17,9 +17,9 @@
       "horario": "19:30",
       "estadio": "Estádio Onésio Brasileiro Alvarenga",
       "cidade": "Goiãnia",
-      "status": "Ao vivo",
+      "status": "Encerrado",
       "gols": {
-        "mandante": 0,
+        "mandante": 2,
         "visitante": 0
       },
       "fonte": "ESPN"
@@ -36,8 +36,11 @@
       "horario": "21:00",
       "estadio": "Estádio Primeiro de Maio",
       "cidade": "São Bernardo do Campo ",
-      "status": "Agendado",
-      "gols": null,
+      "status": "Ao vivo",
+      "gols": {
+        "mandante": 1,
+        "visitante": 1
+      },
       "fonte": "ESPN"
     },
     {
@@ -52,8 +55,11 @@
       "horario": "21:30",
       "estadio": "Ilha do Retiro",
       "cidade": "Recife",
-      "status": "Agendado",
-      "gols": null,
+      "status": "Primeiro tempo",
+      "gols": {
+        "mandante": 0,
+        "visitante": 0
+      },
       "fonte": "ESPN"
     },
     {
@@ -84,8 +90,11 @@
       "horario": "21:30",
       "estadio": "Estadio Inca Garcilaso de la Vega",
       "cidade": "Cusco",
-      "status": "Agendado",
-      "gols": null,
+      "status": "Primeiro tempo",
+      "gols": {
+        "mandante": 0,
+        "visitante": 0
+      },
       "fonte": "ESPN"
     },
     {
