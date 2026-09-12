@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-12T22:30:32.208Z",
+  "atualizadoEm": "2026-09-12T22:45:32.382Z",
   "periodo": {
     "inicio": "2026-09-12",
     "fim": "2026-09-19"
@@ -55,7 +55,7 @@
       "horario": "17:00",
       "estadio": "Arena Condá",
       "cidade": "Chapecó",
-      "status": "Encerrado",
+      "status": "Segundo tempo",
       "gols": {
         "mandante": 1,
         "visitante": 2
