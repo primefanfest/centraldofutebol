@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-12T23:43:06.605Z",
+  "atualizadoEm": "2026-09-12T23:55:18.350Z",
   "periodo": {
     "inicio": "2026-09-12",
     "fim": "2026-09-19"
@@ -74,7 +74,7 @@
       "horario": "18:30",
       "estadio": "Allianz Parque",
       "cidade": "São Paulo",
-      "status": "Segundo tempo",
+      "status": "Encerrado",
       "gols": {
         "mandante": 2,
         "visitante": 0
@@ -93,8 +93,11 @@
       "horario": "20:30",
       "estadio": "Joao Havelange Stadium",
       "cidade": "Rio de Janeiro",
-      "status": "Agendado",
-      "gols": null,
+      "status": "Primeiro tempo",
+      "gols": {
+        "mandante": 0,
+        "visitante": 0
+      },
       "fonte": "ESPN"
     },
     {
