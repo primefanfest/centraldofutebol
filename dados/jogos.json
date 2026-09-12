@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-12T20:59:02.546Z",
+  "atualizadoEm": "2026-09-12T21:18:41.151Z",
   "periodo": {
     "inicio": "2026-09-12",
     "fim": "2026-09-19"
@@ -17,10 +17,10 @@
       "horario": "16:00",
       "estadio": "Arena MRV",
       "cidade": "Belo Horizonte",
-      "status": "Segundo tempo",
+      "status": "Encerrado",
       "gols": {
-        "mandante": 2,
-        "visitante": 0
+        "mandante": 3,
+        "visitante": 1
       },
       "fonte": "ESPN"
     },
@@ -36,10 +36,10 @@
       "horario": "16:00",
       "estadio": "Arena do Grêmio",
       "cidade": "Porto Alegre",
-      "status": "Segundo tempo",
+      "status": "Encerrado",
       "gols": {
         "mandante": 1,
-        "visitante": 0
+        "visitante": 2
       },
       "fonte": "ESPN"
     },
@@ -55,9 +55,9 @@
       "horario": "17:00",
       "estadio": "Arena Condá",
       "cidade": "Chapecó",
-      "status": "Primeiro tempo",
+      "status": "Ao vivo",
       "gols": {
-        "mandante": 0,
+        "mandante": 1,
         "visitante": 1
       },
       "fonte": "ESPN"
