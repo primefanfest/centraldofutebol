@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-12T20:12:50.589Z",
+  "atualizadoEm": "2026-09-12T20:31:11.704Z",
   "periodo": {
     "inicio": "2026-09-12",
     "fim": "2026-09-19"
@@ -17,7 +17,7 @@
       "horario": "16:00",
       "estadio": "Arena MRV",
       "cidade": "Belo Horizonte",
-      "status": "Primeiro tempo",
+      "status": "Ao vivo",
       "gols": {
         "mandante": 0,
         "visitante": 0
@@ -36,9 +36,9 @@
       "horario": "16:00",
       "estadio": "Arena do Grêmio",
       "cidade": "Porto Alegre",
-      "status": "Primeiro tempo",
+      "status": "Ao vivo",
       "gols": {
-        "mandante": 0,
+        "mandante": 1,
         "visitante": 0
       },
       "fonte": "ESPN"
