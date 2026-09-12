@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-12T00:20:47.699Z",
+  "atualizadoEm": "2026-09-12T00:40:32.180Z",
   "periodo": {
     "inicio": "2026-09-11",
     "fim": "2026-09-18"
@@ -17,8 +17,11 @@
       "horario": "21:00",
       "estadio": "Couto Pereira",
       "cidade": "Curitiba",
-      "status": "Agendado",
-      "gols": null,
+      "status": "Primeiro tempo",
+      "gols": {
+        "mandante": 0,
+        "visitante": 0
+      },
       "fonte": "ESPN"
     },
     {
