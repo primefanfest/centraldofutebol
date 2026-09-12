@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-12T22:45:32.382Z",
+  "atualizadoEm": "2026-09-12T22:58:37.020Z",
   "periodo": {
     "inicio": "2026-09-12",
     "fim": "2026-09-19"
@@ -55,7 +55,7 @@
       "horario": "17:00",
       "estadio": "Arena Condá",
       "cidade": "Chapecó",
-      "status": "Segundo tempo",
+      "status": "Encerrado",
       "gols": {
         "mandante": 1,
         "visitante": 2
@@ -74,9 +74,9 @@
       "horario": "18:30",
       "estadio": "Allianz Parque",
       "cidade": "São Paulo",
-      "status": "Primeiro tempo",
+      "status": "Ao vivo",
       "gols": {
-        "mandante": 0,
+        "mandante": 1,
         "visitante": 0
       },
       "fonte": "ESPN"
