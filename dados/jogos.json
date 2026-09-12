@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-12T23:17:23.174Z",
+  "atualizadoEm": "2026-09-12T23:30:53.242Z",
   "periodo": {
     "inicio": "2026-09-12",
     "fim": "2026-09-19"
@@ -74,9 +74,9 @@
       "horario": "18:30",
       "estadio": "Allianz Parque",
       "cidade": "São Paulo",
-      "status": "Segundo tempo",
+      "status": "Ao vivo",
       "gols": {
-        "mandante": 2,
+        "mandante": 1,
         "visitante": 0
       },
       "fonte": "ESPN"
