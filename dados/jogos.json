@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-13T00:43:01.632Z",
+  "atualizadoEm": "2026-09-13T00:57:43.624Z",
   "periodo": {
     "inicio": "2026-09-12",
     "fim": "2026-09-19"
@@ -93,7 +93,7 @@
       "horario": "20:30",
       "estadio": "Joao Havelange Stadium",
       "cidade": "Rio de Janeiro",
-      "status": "Ao vivo",
+      "status": "Segundo tempo",
       "gols": {
         "mandante": 0,
         "visitante": 1
@@ -114,7 +114,7 @@
       "cidade": "Santos",
       "status": "Primeiro tempo",
       "gols": {
-        "mandante": 0,
+        "mandante": 2,
         "visitante": 0
       },
       "fonte": "ESPN"
