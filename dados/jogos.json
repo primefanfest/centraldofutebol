@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-13T00:57:43.624Z",
+  "atualizadoEm": "2026-09-13T01:15:52.150Z",
   "periodo": {
     "inicio": "2026-09-12",
     "fim": "2026-09-19"
@@ -93,11 +93,8 @@
       "horario": "20:30",
       "estadio": "Joao Havelange Stadium",
       "cidade": "Rio de Janeiro",
-      "status": "Segundo tempo",
-      "gols": {
-        "mandante": 0,
-        "visitante": 1
-      },
+      "status": "Agendado",
+      "gols": null,
       "fonte": "ESPN"
     },
     {
@@ -112,11 +109,8 @@
       "horario": "21:00",
       "estadio": "Estádio Vila Belmiro (Urbano Caldeira)",
       "cidade": "Santos",
-      "status": "Primeiro tempo",
-      "gols": {
-        "mandante": 2,
-        "visitante": 0
-      },
+      "status": "Agendado",
+      "gols": null,
       "fonte": "ESPN"
     },
     {
