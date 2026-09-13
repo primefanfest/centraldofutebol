@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-13T21:58:19.782Z",
+  "atualizadoEm": "2026-09-13T22:17:29.212Z",
   "periodo": {
     "inicio": "2026-09-13",
     "fim": "2026-09-20"
@@ -74,8 +74,11 @@
       "horario": "18:00",
       "estadio": "Alfredo Jaconi",
       "cidade": "Caxias do Sul",
-      "status": "Agendado",
-      "gols": null,
+      "status": "Ao vivo",
+      "gols": {
+        "mandante": 0,
+        "visitante": 0
+      },
       "fonte": "ESPN"
     },
     {
