@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-13T01:47:16.462Z",
+  "atualizadoEm": "2026-09-13T01:59:34.545Z",
   "periodo": {
     "inicio": "2026-09-12",
     "fim": "2026-09-19"
@@ -93,7 +93,7 @@
       "horario": "20:30",
       "estadio": "Joao Havelange Stadium",
       "cidade": "Rio de Janeiro",
-      "status": "Encerrado",
+      "status": "Segundo tempo",
       "gols": {
         "mandante": 1,
         "visitante": 1
