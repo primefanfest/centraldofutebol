@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-13T20:48:33.145Z",
+  "atualizadoEm": "2026-09-13T21:00:50.406Z",
   "periodo": {
     "inicio": "2026-09-13",
     "fim": "2026-09-20"
@@ -19,7 +19,7 @@
       "cidade": "Mirassol",
       "status": "Segundo tempo",
       "gols": {
-        "mandante": 0,
+        "mandante": 1,
         "visitante": 2
       },
       "fonte": "ESPN"
@@ -36,9 +36,9 @@
       "horario": "16:00",
       "estadio": "Estádio Antônio Accioly",
       "cidade": "Goiãnia",
-      "status": "Primeiro tempo",
+      "status": "Ao vivo",
       "gols": {
-        "mandante": 0,
+        "mandante": 2,
         "visitante": 0
       },
       "fonte": "ESPN"
@@ -55,8 +55,11 @@
       "horario": "17:30",
       "estadio": "Estadio do Maracana",
       "cidade": "Rio de Janeiro",
-      "status": "Agendado",
-      "gols": null,
+      "status": "Primeiro tempo",
+      "gols": {
+        "mandante": 0,
+        "visitante": 0
+      },
       "fonte": "ESPN"
     },
     {
