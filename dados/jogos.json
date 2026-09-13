@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-13T21:00:50.406Z",
+  "atualizadoEm": "2026-09-13T21:19:11.107Z",
   "periodo": {
     "inicio": "2026-09-13",
     "fim": "2026-09-20"
@@ -36,9 +36,9 @@
       "horario": "16:00",
       "estadio": "Estádio Antônio Accioly",
       "cidade": "Goiãnia",
-      "status": "Ao vivo",
+      "status": "Segundo tempo",
       "gols": {
-        "mandante": 2,
+        "mandante": 4,
         "visitante": 0
       },
       "fonte": "ESPN"
