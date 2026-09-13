@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-13T21:46:00.470Z",
+  "atualizadoEm": "2026-09-13T21:58:19.782Z",
   "periodo": {
     "inicio": "2026-09-13",
     "fim": "2026-09-20"
@@ -17,7 +17,7 @@
       "horario": "16:00",
       "estadio": "Estadio Municipal José Maria de Campos Maia",
       "cidade": "Mirassol",
-      "status": "Segundo tempo",
+      "status": "Encerrado",
       "gols": {
         "mandante": 2,
         "visitante": 2
@@ -55,7 +55,7 @@
       "horario": "17:30",
       "estadio": "Estadio do Maracana",
       "cidade": "Rio de Janeiro",
-      "status": "Primeiro tempo",
+      "status": "Ao vivo",
       "gols": {
         "mandante": 0,
         "visitante": 0
