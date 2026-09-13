@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-13T23:31:35.314Z",
+  "atualizadoEm": "2026-09-13T23:44:16.788Z",
   "periodo": {
     "inicio": "2026-09-13",
     "fim": "2026-09-20"
@@ -74,10 +74,10 @@
       "horario": "18:00",
       "estadio": "Alfredo Jaconi",
       "cidade": "Caxias do Sul",
-      "status": "Encerrado",
+      "status": "Ao vivo",
       "gols": {
         "mandante": 0,
-        "visitante": 2
+        "visitante": 0
       },
       "fonte": "ESPN"
     },
@@ -93,9 +93,9 @@
       "horario": "18:30",
       "estadio": "Arena Castelão",
       "cidade": "Fortaleza",
-      "status": "Segundo tempo",
+      "status": "Primeiro tempo",
       "gols": {
-        "mandante": 1,
+        "mandante": 0,
         "visitante": 0
       },
       "fonte": "ESPN"
@@ -112,9 +112,9 @@
       "horario": "18:30",
       "estadio": "Estádio Dr. Jorge Ismael de Biasi",
       "cidade": "Novo Horizonte",
-      "status": "Segundo tempo",
+      "status": "Primeiro tempo",
       "gols": {
-        "mandante": 1,
+        "mandante": 0,
         "visitante": 1
       },
       "fonte": "ESPN"
