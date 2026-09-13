@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-13T22:59:26.069Z",
+  "atualizadoEm": "2026-09-13T23:17:19.112Z",
   "periodo": {
     "inicio": "2026-09-13",
     "fim": "2026-09-20"
@@ -77,7 +77,7 @@
       "status": "Segundo tempo",
       "gols": {
         "mandante": 0,
-        "visitante": 0
+        "visitante": 1
       },
       "fonte": "ESPN"
     },
@@ -93,7 +93,7 @@
       "horario": "18:30",
       "estadio": "Arena Castelão",
       "cidade": "Fortaleza",
-      "status": "Ao vivo",
+      "status": "Segundo tempo",
       "gols": {
         "mandante": 1,
         "visitante": 0
@@ -112,7 +112,7 @@
       "horario": "18:30",
       "estadio": "Estádio Dr. Jorge Ismael de Biasi",
       "cidade": "Novo Horizonte",
-      "status": "Ao vivo",
+      "status": "Segundo tempo",
       "gols": {
         "mandante": 1,
         "visitante": 1
