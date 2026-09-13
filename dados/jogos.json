@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-13T02:34:49.962Z",
+  "atualizadoEm": "2026-09-13T02:49:00.214Z",
   "periodo": {
     "inicio": "2026-09-12",
     "fim": "2026-09-19"
@@ -112,10 +112,10 @@
       "horario": "21:00",
       "estadio": "Estádio Vila Belmiro (Urbano Caldeira)",
       "cidade": "Santos",
-      "status": "Segundo tempo",
+      "status": "Encerrado",
       "gols": {
         "mandante": 2,
-        "visitante": 0
+        "visitante": 1
       },
       "fonte": "ESPN"
     },
