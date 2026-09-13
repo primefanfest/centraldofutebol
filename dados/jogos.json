@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-13T22:47:15.571Z",
+  "atualizadoEm": "2026-09-13T22:59:26.069Z",
   "periodo": {
     "inicio": "2026-09-13",
     "fim": "2026-09-20"
@@ -55,10 +55,10 @@
       "horario": "17:30",
       "estadio": "Estadio do Maracana",
       "cidade": "Rio de Janeiro",
-      "status": "Segundo tempo",
+      "status": "Encerrado",
       "gols": {
-        "mandante": 1,
-        "visitante": 0
+        "mandante": 2,
+        "visitante": 1
       },
       "fonte": "ESPN"
     },
@@ -74,7 +74,7 @@
       "horario": "18:00",
       "estadio": "Alfredo Jaconi",
       "cidade": "Caxias do Sul",
-      "status": "Primeiro tempo",
+      "status": "Segundo tempo",
       "gols": {
         "mandante": 0,
         "visitante": 0
@@ -93,9 +93,9 @@
       "horario": "18:30",
       "estadio": "Arena Castelão",
       "cidade": "Fortaleza",
-      "status": "Primeiro tempo",
+      "status": "Ao vivo",
       "gols": {
-        "mandante": 0,
+        "mandante": 1,
         "visitante": 0
       },
       "fonte": "ESPN"
@@ -112,10 +112,10 @@
       "horario": "18:30",
       "estadio": "Estádio Dr. Jorge Ismael de Biasi",
       "cidade": "Novo Horizonte",
-      "status": "Primeiro tempo",
+      "status": "Ao vivo",
       "gols": {
-        "mandante": 0,
-        "visitante": 0
+        "mandante": 1,
+        "visitante": 1
       },
       "fonte": "ESPN"
     },
