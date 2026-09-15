@@ -1,5 +1,5 @@
 {
-  "atualizadoEm": "2026-09-15T20:14:11.752Z",
+  "atualizadoEm": "2026-09-15T22:56:59.611Z",
   "periodo": {
     "inicio": "2026-09-15",
     "fim": "2026-09-22"
@@ -518,5 +518,11 @@
       "fonte": "ESPN"
     }
   ],
-  "avisos": []
+  "avisos": [
+    "Brasileirão — Série A: HTTP 400",
+    "Brasileirão — Série B: HTTP 400",
+    "Copa do Brasil: HTTP 400",
+    "Libertadores: HTTP 400",
+    "Sul-Americana: HTTP 400"
+  ]
 }
