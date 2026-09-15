@@ -1,83 +1,10 @@
 {
-  "atualizadoEm": "2026-09-15T01:39:30.552Z",
+  "atualizadoEm": "2026-09-15T06:45:04.556Z",
   "periodo": {
-    "inicio": "2026-09-14",
-    "fim": "2026-09-21"
+    "inicio": "2026-09-15",
+    "fim": "2026-09-22"
   },
   "jogos": [
-    {
-      "id": "401860335",
-      "data": "2026-09-14T22:30Z",
-      "campeonato": "Brasileirão — Série B",
-      "logoCampeonato": "https://a.espncdn.com/i/leaguelogos/soccer/500/2299.png",
-      "mandante": "América Mineiro",
-      "visitante": "São Bernardo",
-      "escudoMandante": "https://a.espncdn.com/i/teamlogos/soccer/500/6154.png",
-      "escudoVisitante": "https://a.espncdn.com/i/teamlogos/soccer/500/11268.png",
-      "horario": "19:30",
-      "estadio": "Estádio Raimundo Sampaio (Independência)",
-      "cidade": "Belo Horizonte",
-      "status": "Primeiro tempo",
-      "gols": {
-        "mandante": 0,
-        "visitante": 0
-      },
-      "fonte": "ESPN"
-    },
-    {
-      "id": "401860332",
-      "data": "2026-09-14T22:30Z",
-      "campeonato": "Brasileirão — Série B",
-      "logoCampeonato": "https://a.espncdn.com/i/leaguelogos/soccer/500/2299.png",
-      "mandante": "Botafogo-SP",
-      "visitante": "Goiás",
-      "escudoMandante": "https://a.espncdn.com/i/teamlogos/soccer/500/10281.png",
-      "escudoVisitante": "https://a.espncdn.com/i/teamlogos/soccer/500/3395.png",
-      "horario": "19:30",
-      "estadio": "Estádio Santa Cruz",
-      "cidade": "Ribeirão Preto",
-      "status": "Ao vivo",
-      "gols": {
-        "mandante": 1,
-        "visitante": 1
-      },
-      "fonte": "ESPN"
-    },
-    {
-      "id": "401841230",
-      "data": "2026-09-14T23:00Z",
-      "campeonato": "Brasileirão — Série A",
-      "logoCampeonato": "https://a.espncdn.com/i/leaguelogos/soccer/500/85.png",
-      "mandante": "Bahia",
-      "visitante": "Remo",
-      "escudoMandante": "https://a.espncdn.com/i/teamlogos/soccer/500/9967.png",
-      "escudoVisitante": "https://a.espncdn.com/i/teamlogos/soccer/500/4936.png",
-      "horario": "20:00",
-      "estadio": "Arena Fonte Nova",
-      "cidade": "Salvador",
-      "status": "Ao vivo",
-      "gols": {
-        "mandante": 0,
-        "visitante": 0
-      },
-      "fonte": "ESPN"
-    },
-    {
-      "id": "401860333",
-      "data": "2026-09-15T00:30Z",
-      "campeonato": "Brasileirão — Série B",
-      "logoCampeonato": "https://a.espncdn.com/i/leaguelogos/soccer/500/2299.png",
-      "mandante": "Avaí",
-      "visitante": "Vila Nova",
-      "escudoMandante": "https://a.espncdn.com/i/teamlogos/soccer/500/9966.png",
-      "escudoVisitante": "https://a.espncdn.com/i/teamlogos/soccer/500/9973.png",
-      "horario": "21:30",
-      "estadio": "Estádio da Ressacada",
-      "cidade": "Florianópolis",
-      "status": "Agendado",
-      "gols": null,
-      "fonte": "ESPN"
-    },
     {
       "id": "401912517",
       "data": "2026-09-15T22:00Z",
