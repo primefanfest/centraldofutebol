@@ -1,74 +1,10 @@
 {
-  "atualizadoEm": "2026-09-17T00:31:06.256Z",
+  "atualizadoEm": "2026-09-17T05:17:25.898Z",
   "periodo": {
-    "inicio": "2026-09-16",
-    "fim": "2026-09-23"
+    "inicio": "2026-09-17",
+    "fim": "2026-09-24"
   },
   "jogos": [
-    {
-      "id": "401912525",
-      "data": "2026-09-16T22:00Z",
-      "campeonato": "Libertadores",
-      "logoCampeonato": "https://a.espncdn.com/i/leaguelogos/soccer/500/58.png",
-      "mandante": "Liga de Quito",
-      "visitante": "Palmeiras",
-      "escudoMandante": "https://a.espncdn.com/i/teamlogos/soccer/500/4816.png",
-      "escudoVisitante": "https://a.espncdn.com/i/teamlogos/soccer/500/2029.png",
-      "horario": "19:00",
-      "estadio": "Rodrigo Paz Delgado",
-      "cidade": "Quito",
-      "status": "Agendado",
-      "gols": null,
-      "fonte": "ESPN"
-    },
-    {
-      "id": "401913071",
-      "data": "2026-09-16T22:00Z",
-      "campeonato": "Sul-Americana",
-      "logoCampeonato": "https://a.espncdn.com/i/leaguelogos/soccer/500/1208.png",
-      "mandante": "Atlético Mineiro",
-      "visitante": "Santos",
-      "escudoMandante": "https://a.espncdn.com/i/teamlogos/soccer/500/7632.png",
-      "escudoVisitante": "https://a.espncdn.com/i/teamlogos/soccer/500/2674.png",
-      "horario": "19:00",
-      "estadio": "Arena MRV",
-      "cidade": "Belo Horizonte",
-      "status": "Agendado",
-      "gols": null,
-      "fonte": "ESPN"
-    },
-    {
-      "id": "401841176",
-      "data": "2026-09-16T22:30Z",
-      "campeonato": "Brasileirão — Série A",
-      "logoCampeonato": "https://a.espncdn.com/i/leaguelogos/soccer/500/85.png",
-      "mandante": "Botafogo",
-      "visitante": "Grêmio",
-      "escudoMandante": "https://a.espncdn.com/i/teamlogos/soccer/500/6086.png",
-      "escudoVisitante": "https://a.espncdn.com/i/teamlogos/soccer/500/6273.png",
-      "horario": "19:30",
-      "estadio": "Joao Havelange Stadium",
-      "cidade": "Rio de Janeiro",
-      "status": "Agendado",
-      "gols": null,
-      "fonte": "ESPN"
-    },
-    {
-      "id": "401912540",
-      "data": "2026-09-17T00:30Z",
-      "campeonato": "Libertadores",
-      "logoCampeonato": "https://a.espncdn.com/i/leaguelogos/soccer/500/58.png",
-      "mandante": "Corinthians",
-      "visitante": "Estudiantes de La Plata",
-      "escudoMandante": "https://a.espncdn.com/i/teamlogos/soccer/500/874.png",
-      "escudoVisitante": "https://a.espncdn.com/i/teamlogos/soccer/500/8.png",
-      "horario": "21:30",
-      "estadio": "Neo Química Arena",
-      "cidade": "São Paulo",
-      "status": "Agendado",
-      "gols": null,
-      "fonte": "ESPN"
-    },
     {
       "id": "401912526",
       "data": "2026-09-18T00:30Z",
