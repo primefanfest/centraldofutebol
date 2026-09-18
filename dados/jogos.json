@@ -1,42 +1,10 @@
 {
-  "atualizadoEm": "2026-09-18T00:13:11.937Z",
+  "atualizadoEm": "2026-09-18T04:51:42.679Z",
   "periodo": {
-    "inicio": "2026-09-17",
-    "fim": "2026-09-24"
+    "inicio": "2026-09-18",
+    "fim": "2026-09-25"
   },
   "jogos": [
-    {
-      "id": "401912526",
-      "data": "2026-09-18T00:30Z",
-      "campeonato": "Libertadores",
-      "logoCampeonato": "https://a.espncdn.com/i/leaguelogos/soccer/500/58.png",
-      "mandante": "Flamengo",
-      "visitante": "Independiente del Valle",
-      "escudoMandante": "https://a.espncdn.com/i/teamlogos/soccer/500/819.png",
-      "escudoVisitante": "https://a.espncdn.com/i/teamlogos/soccer/500/17086.png",
-      "horario": "21:30",
-      "estadio": "Estadio do Maracana",
-      "cidade": "Rio de Janeiro",
-      "status": "Agendado",
-      "gols": null,
-      "fonte": "ESPN"
-    },
-    {
-      "id": "401913072",
-      "data": "2026-09-18T00:30Z",
-      "campeonato": "Sul-Americana",
-      "logoCampeonato": "https://a.espncdn.com/i/leaguelogos/soccer/500/1208.png",
-      "mandante": "Montevideo City Torque",
-      "visitante": "Cienciano del Cusco",
-      "escudoMandante": "https://a.espncdn.com/i/teamlogos/soccer/500/19002.png",
-      "escudoVisitante": "https://a.espncdn.com/i/teamlogos/soccer/500/3372.png",
-      "horario": "21:30",
-      "estadio": "Estadio Centenario",
-      "cidade": "Montevideo",
-      "status": "Agendado",
-      "gols": null,
-      "fonte": "ESPN"
-    },
     {
       "id": "401860344",
       "data": "2026-09-18T22:30Z",
