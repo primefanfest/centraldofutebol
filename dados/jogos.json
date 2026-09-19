@@ -1,58 +1,10 @@
 {
-  "atualizadoEm": "2026-09-19T00:05:50.074Z",
+  "atualizadoEm": "2026-09-19T04:34:04.080Z",
   "periodo": {
-    "inicio": "2026-09-18",
-    "fim": "2026-09-25"
+    "inicio": "2026-09-19",
+    "fim": "2026-09-26"
   },
   "jogos": [
-    {
-      "id": "401860344",
-      "data": "2026-09-18T22:30Z",
-      "campeonato": "Brasileirão — Série B",
-      "logoCampeonato": "https://a.espncdn.com/i/leaguelogos/soccer/500/2299.png",
-      "mandante": "Vila Nova",
-      "visitante": "América Mineiro",
-      "escudoMandante": "https://a.espncdn.com/i/teamlogos/soccer/500/9973.png",
-      "escudoVisitante": "https://a.espncdn.com/i/teamlogos/soccer/500/6154.png",
-      "horario": "19:30",
-      "estadio": "Estádio Onésio Brasileiro Alvarenga",
-      "cidade": "Goiãnia",
-      "status": "Agendado",
-      "gols": null,
-      "fonte": "ESPN"
-    },
-    {
-      "id": "401860343",
-      "data": "2026-09-18T23:30Z",
-      "campeonato": "Brasileirão — Série B",
-      "logoCampeonato": "https://a.espncdn.com/i/leaguelogos/soccer/500/2299.png",
-      "mandante": "Ceará",
-      "visitante": "Novorizontino",
-      "escudoMandante": "https://a.espncdn.com/i/teamlogos/soccer/500/9969.png",
-      "escudoVisitante": "https://a.espncdn.com/i/teamlogos/soccer/500/18127.png",
-      "horario": "20:30",
-      "estadio": "Arena Castelão",
-      "cidade": "Fortaleza",
-      "status": "Agendado",
-      "gols": null,
-      "fonte": "ESPN"
-    },
-    {
-      "id": "401860345",
-      "data": "2026-09-19T00:00Z",
-      "campeonato": "Brasileirão — Série B",
-      "logoCampeonato": "https://a.espncdn.com/i/leaguelogos/soccer/500/2299.png",
-      "mandante": "São Bernardo",
-      "visitante": "Atlético Goianiense",
-      "escudoMandante": "https://a.espncdn.com/i/teamlogos/soccer/500/11268.png",
-      "escudoVisitante": "https://a.espncdn.com/i/teamlogos/soccer/500/10357.png",
-      "horario": "21:00",
-      "estadio": "Estádio Primeiro de Maio",
-      "cidade": "São Bernardo do Campo ",
-      "status": "Agendado",
-      "gols": null,
-      "fonte": "ESPN"
-    },
     {
       "id": "401841239",
       "data": "2026-09-19T19:00Z",
